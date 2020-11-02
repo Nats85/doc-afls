@@ -1,0 +1,27 @@
+docs:
+  - title: Qué es Aranda FIELD SERVICE
+    chapter: "que_es"
+  - title: Qué puede hacer en Aranda FIELD SERVICE
+    chapter: "afls"
+  - title: Conceptos básicos de Aranda FIELD SERVICE
+    chapter: "conceptos"
+  - title: Utilizando ARANDA FIELD SERVICE
+    chapter: "utilizando"
+  - title: Configurando Aranda FIELD SERVICE
+    chapter: "configurando"
+  - title: Panel de control de AFLS
+    chapter: "panel"
+  - title: Gestionando órdenes en AFLS
+    chapter: "gestionando"
+  - title: Inventario en Aranda FIELD SERVICE
+    chapter: "inventario"
+  - title: Generando reportes en Aranda FIELD SERVICE
+    chapter: "generando"
+  - title: Monitoreo de órdenes de trabajo en Aranda FIELD SERVICE
+    chapter: "monitoreo"
+  - title: Alertas en Aranda FIELD SERVICE
+    chapter: "alertas"
+  - title: Ingresando a la consola móvil de FIELD SERVICE
+    chapter: "ingresando"
+  - title: Glosario de términos de Aranda FIELD SERVICE
+    chapter: "glosario"
