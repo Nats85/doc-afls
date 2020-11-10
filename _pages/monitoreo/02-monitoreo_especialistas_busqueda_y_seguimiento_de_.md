@@ -7,7 +7,7 @@ Para lograr una visión general de la prestación del servicio y del progreso de
 
 ![]({{ site.baseurl }}/assets/images/image314.png)
 
-### **Filtrando y ordenando la consulta de seguimiento** {#filtrando-y-ordenando-la-consulta-de-seguimiento}
+### **Filtrando y ordenando la consulta de seguimiento** 
 
 Puede filtrar la información de la consulta bajo los siguientes criterios:
 
