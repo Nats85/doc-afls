@@ -13,6 +13,6 @@ Al crear un nuevo cliente desde la consola móvil, el sistema verifica que el us
 | **Nota**: esta funcionalidad solo está disponible en línea. |
 | --- |
 
-[]({{ site.baseurl }}/assets/images/image338.png)
+![]({{ site.baseurl }}/assets/images/image338.png)
 
 _Creación de nuevo cliente desde la consola móvil_
