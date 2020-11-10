@@ -19,7 +19,7 @@ En este módulo se deben configurar los siguientes parámetros teniendo en cuent
 *   **Estado:** indica si el proceso de sincronización se debe ejecutar o no.
 *   **Actualizar ahora:** Es un botón de una sola ejecución, si este se presiona el proceso se iniciará al siguiente minuto.
 
-### **Importando Compañías de ASDK a AFLS** {#importando-compa-as-de-asdk-a-afls}
+### **Importando Compañías de ASDK a AFLS**
 
 AFLS ejecuta una sincronización de las compañías que se encuentran en ASDK, los campos que se sincronizan son:
 
@@ -35,7 +35,7 @@ AFLS ejecuta una sincronización de las compañías que se encuentran en ASDK, l
 
 _Compañías de ASDK sincronizadas_
 
-### **Importando Clientes de ASDK a AFLS** {#importando-clientes-de-asdk-a-afls}
+### **Importando Clientes de ASDK a AFLS**
 
 AFLS ejecuta una sincronización de los clientes que se encuentran en ASDK, los campos que se sincronizan son:
 
@@ -52,7 +52,7 @@ AFLS ejecuta una sincronización de los clientes que se encuentran en ASDK, los 
 
 _Clientes de ASDK sincronizados_
 
-### **Importando usuarios especialistas de ASDK como despachadores a AFLS** {#importando-usuarios-especialistas-de-asdk-como-despachadores-a-afls}
+### **Importando usuarios especialistas de ASDK como despachadores a AFLS** 
 
 
 ![]({{ site.baseurl }}/assets/images/image163.png)
