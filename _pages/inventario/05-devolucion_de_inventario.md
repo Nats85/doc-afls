@@ -19,7 +19,7 @@ En esta pantalla, una vez seleccionado el especialista, el gestor de inventario 
 *   Por producto
 *   Por número de serie
 
-[]({{ site.baseurl }}/assets/images/image276.png)
+![]({{ site.baseurl }}/assets/images/image276.png)
 
 _Visualización de criterios de búsqueda y productos a devolver_
 
@@ -27,7 +27,7 @@ Haga clic en el botón **Seleccionar todo** para hacer una preselección de todo
 
 Estos movimientos de transferencia pueden confirmarse al consultar el módulo de movimientos.
 
-[]({{ site.baseurl }}/assets/images/image277.png)
+![]({{ site.baseurl }}/assets/images/image277.png)
 
 _Visualización de movimientos generados_
 
