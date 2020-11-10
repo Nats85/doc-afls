@@ -23,7 +23,7 @@ Al seleccionar un proveedor del listado, la información asociada a este se pres
 
 ![]({{ site.baseurl }}/assets/images/image80.png)
 
-### **Asignación de especialistas por proveedor** {#asignaci-n-de-especialistas-por-proveedor}
+### **Asignación de especialistas por proveedor**
 
 Para asignar especialistas de un proveedor se pueden escoger dos opciones:
 
@@ -37,36 +37,36 @@ La selección del tipo de proveedor define los tipos de acuerdo que se aplican a
 *   **OLA** (Operational Level Agreement) para proveedores internos. Son acuerdos negociados internamente dentro de la compañía, que identifican los niveles de servicio que se esperan (p.e.: tiempos de respuesta y solución.)
 *   **UC** (Underpinning Contract) para proveedores externos. Son las obligaciones de los proveedores externos que prestan servicios a la compañía y están documentados a través de contratos.
 
-### **Importancia del proveedor** {#importancia-del-proveedor}
+### **Importancia del proveedor**
 
 El nivel de importancia de un proveedor se refiere a la preferencia o prioridad que se le da sobre otros proveedores para que pueda tomar las órdenes de servicio que se asignan por **Distribución Pública.** De esta manera, un proveedor con importancia **Alta** puede ver una orden en la sección “**Órdenes Disponibles**” antes que los proveedores de importancia **Media** o **Baja**.
 
 | **NOTA:** Por defecto, un proveedor de importancia **Alta** puede ver la orden 10 minutosantes que los de importancia **Media** y 20 minutos antes que los demás. Ese tiempo se puede ajustar en la configuración de base de datos: **DeltaMinByProviderPriority** |
 | --- |
 
-### **Servicios asociados a un proveedor** {#servicios-asociados-a-un-proveedor}
+### **Servicios asociados a un proveedor**
 
 Un proveedor podrá asociarse con servicios ya configurados dentro de AFLS. De esta manera ese proveedor aparecerá disponible para atender el o los servicios que se le hayan asociado.
 
 ![]({{ site.baseurl }}/assets/images/image81.png)
 
-#### Barra de búsqueda de servicios {#barra-de-b-squeda-de-servicios}
+#### Barra de búsqueda de servicios
 
 En esta barra podrá buscar y seleccionar los servicios existentes que se hayan configurado anteriormente con algún OLA o UC en la pantalla de configuración de “Catálogo de servicios/Servicios/Pestaña General de servicio” (la selección de estos acuerdos no es obligatoria).
 
 ![]({{ site.baseurl }}/assets/images/image82.png)
 
-### **Zonas asociadas al proveedor** {#zonas-asociadas-al-proveedor}
+### **Zonas asociadas al proveedor**
 
 Las zonas asociadas serán las zonas en las cuales el proveedor estará en capacidad de atender órdenes.
 
 ![]({{ site.baseurl }}/assets/images/image83.png)
 
-#### Barra de búsqueda de zonas {#barra-de-b-squeda-de-zonas}
+#### Barra de búsqueda de zonas
 
 En esta barra podrá buscar y seleccionar las zonas ya existentes en la configuración de AFLS, una vez seleccionado un ítem, este será agregado a la sección del listado, si no ha sido agregada previamente.
 
-### **Especialistas asociados al proveedor** {#especialistas-asociados-al-proveedor}
+### **Especialistas asociados al proveedor**
 
 Esta opción es solo de consulta, es decir, solo se podrán visualizar los especialistas que han sido asociados al proveedor en edición desde la pantalla de creación de Usuarios Móviles (Especialistas).
 
@@ -74,7 +74,7 @@ Se mostrará también, información sobre el estado del especialista, informando
 
 ![]({{ site.baseurl }}/assets/images/image84.png)
 
-### **Monitores asociados al proveedor** {#monitores-asociados-al-proveedor}
+### **Monitores asociados al proveedor**
 
 Puede asociar usuarios web con el rol “Monitor” a un proveedor específico para que tengan acceso a los reportes, órdenes, configuración de especialistas y grupos móvil, así como al monitoreo de Especialistas, Clientes y Planeación, que se relacionen con dicho proveedor.
 
@@ -82,6 +82,6 @@ Los monitores, a su vez, tendrán la opción de realizar filtros por proveedor e
 
 ![]({{ site.baseurl }}/assets/images/image85.png)
 
-#### Barra de búsqueda de monitores {#barra-de-b-squeda-de-monitores}
+#### Barra de búsqueda de monitores
 
 En esta barra podrá buscar y seleccionar usuarios web que tengan el rol “Monitor”.
