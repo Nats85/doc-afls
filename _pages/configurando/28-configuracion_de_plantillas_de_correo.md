@@ -34,7 +34,7 @@ Para el uso de los tokens se propone utilizar doble corchete, ej. {{Id}}. Estos 
 | {{ClientPhone}} | Teléfono del cliente | Ninguna, siempre debe existir. |
 | {{Direccion}} | Dirección de la orden | Ninguna, siempre debe tener una dirección |
 
-### **General** {#general}
+### **General**
 
 En la parte superior de este submódulo se encuentran las plantillas para los mensajes que informan a los clientes sobre el estado de sus órdenes de trabajo, a saber:
 
@@ -49,7 +49,7 @@ En la parte superior de este submódulo se encuentran las plantillas para los me
 *   **Vinculación:** Se envía a los especialistas para que puedan vincular sus dispositivos fácilmente.
 *   **Proveedores:** Se envía cada vez que se crea una orden, o se reasigne a un proveedor.
 
-### **Encuestas** {#encuestas}
+### **Encuestas**
 
 En la parte superior de este submódulo se encuentran las plantillas para los mensajes relacionados con encuestas, a saber:
 
@@ -60,7 +60,7 @@ En la parte superior de este submódulo se encuentran las plantillas para los me
 *   **Notificación de medición de encuesta:** Este es un correo de informe periódico que se envía a los monitores para que conozcan el nivel de satisfacción general.
 *   **Notificación de resumen de encuesta:** Este es un correo de informe que se envía al cliente como resumen una vez ha calificado la encuesta.
 
-### **SLA** {#sla}
+### **SLA**
 
 Las plantillas del submódulo SLA se utilizan para notificar a los administradores cuando se acerca una fecha relevante relacionada con los SLA configurados.
 
@@ -71,7 +71,7 @@ Las plantillas del submódulo SLA se utilizan para notificar a los administrador
 *   **Revisión**: plantilla para el correo que notificará cuando se cumpla la fecha de revisión configurada en los SLA.
 *   **Finalización**: plantilla para el correo que notificará cuando un SLA está a punto de finalizar.
 
-### **UC** {#uc}
+### **UC**
 
 ![]({{ site.baseurl }}/assets/images/image134.png)
 
@@ -80,7 +80,7 @@ Las plantillas del submódulo UC se utilizan para notificar a los administradore
 *   **Revisión**: plantilla para el correo que notificará cuando se cumpla la fecha de revisión configurada en los UC.
 *   **Finalización**: plantilla para el correo que notificará cuando un UC está a punto de finalizar.
 
-### **OLA** {#ola}
+### **OLA**
 
 Las plantillas del submódulo OLA se utilizan para notificar a los administradores cuando se acerca una fecha relevante relacionada con la medición del nivel de cumplimiento de los proveedores internos.
 
@@ -89,7 +89,7 @@ Las plantillas del submódulo OLA se utilizan para notificar a los administrador
 *   **Revisión**: plantilla para el correo que notificará cuando se cumpla la fecha de revisión configurada en los OLA.
 *   **Finalización**: plantilla para el correo que notificará cuando un OLA está a punto de finalizar.
 
-### **Assist Me** {#assist-me}
+### **Assist Me** 
 
 Las plantillas de este submódulo están relacionadas con los mensajes que reciben los clientes que hacen parte del canal de asistencia Assist Me.
 
