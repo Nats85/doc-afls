@@ -14,13 +14,13 @@ Para generar una orden de trabajo, haga clic en el botón **Nueva orden** en la 
 
 Luego seleccione el servicio que requiere el cliente. Si el servicio es tipo **Estándar** se mantienen en el formulario los datos básicos como los diligenció el despachador.
 
-[]({{ site.baseurl }}/assets/images/image201.png)
+![]({{ site.baseurl }}/assets/images/image201.png)
 
 _Pantalla de creación de orden con servicio tipo estándar_
 
 Si el servicio es tipo **Desplazamiento** se mostrarán dos nuevos campos: **Dirección de destino** y **Detalle de dirección de destino**, para ingresar la información del punto al cual se dirige el cliente.
 
-[]({{ site.baseurl }}/assets/images/image202.png)
+![]({{ site.baseurl }}/assets/images/image202.png)
 
 _Pantalla de creación de orden con servicio tipo desplazamiento_****
 
@@ -49,7 +49,7 @@ Una vez creada la orden de trabajo y asignados los responsables y los recursos, 
 
 ### **Creación de una orden de emergencia o prioritaria** {#creaci-n-de-una-orden-de-emergencia-o-prioritaria}
 
-[]({{ site.baseurl }}/assets/images/image203.png)
+![]({{ site.baseurl }}/assets/images/image203.png)
 
 Las órdenes de emergencia o prioritarias son aquellas que no pueden esperar a ser asignadas automáticamente:
 
@@ -61,11 +61,11 @@ Cuando el usuario despachador selecciona el tipo de orden como de **Emergencia**
 
 Con el fin de tener visibilidad sobre este tipo de órdenes, AFLS les asigna marcas que permiten a los despachadores y monitores ver cuáles son de **Emergencia** y cuáles de **Prioridad**.
 
-[]({{ site.baseurl }}/assets/images/image204.png)
+![]({{ site.baseurl }}/assets/images/image204.png)
 
 _Orden marcada como Emergencia_
 
-[]({{ site.baseurl }}/assets/images/image205.png)
+![]({{ site.baseurl }}/assets/images/image205.png)
 
 _Orden marcada como Prioridad_
 
@@ -75,17 +75,17 @@ Una vez creada la orden, al abrirla, en la pestaña **Asignación** encontrará 
 
 *   **Asignación Automática:** la realiza el motor de asignación teniendo en cuenta la configuración de la orden creada y la de los especialistas en campo que pueden atender la orden.
 
-[]({{ site.baseurl }}/assets/images/image206.png)
+![]({{ site.baseurl }}/assets/images/image206.png)
 
 *   **Asignación por Restricción:** permite restringir la asignación seleccionando al menos uno de los siguientes criterios de restricción: **Proveedor**, **Especialista**, **Fecha Inicial** y **Jornada**.
 
 El campo **Jornada** dependerá de la configuración de las variables del negocio.
 
-[]({{ site.baseurl }}/assets/images/image207.png)
+![]({{ site.baseurl }}/assets/images/image207.png)
 
 *   **Asignación Manual:** la realiza directamente el despachador teniendo en cuenta la disponibilidad del especialista por los filtros de proveedor y fecha de atención.
 
-[]({{ site.baseurl }}/assets/images/image208.png)
+![]({{ site.baseurl }}/assets/images/image208.png)
 
 ### **Tareas** {#tareas}
 
@@ -95,7 +95,7 @@ Las tareas permiten hacer una gestión más minuciosa de una orden de trabajo, y
 
 Al crear una orden, las tareas se cargan cuando se selecciona un servicio que las requiera; estas tareas se listan de forma consecutiva según el orden que se haya configurado desde el servicio.
 
-[]({{ site.baseurl }}/assets/images/image209.png)
+![]({{ site.baseurl }}/assets/images/image209.png)
 
 _Visualización de nueva tarea_
 
@@ -119,7 +119,7 @@ Cuando está **SIN INICIAR**
 *   Permite desasociarla de la orden de trabajo, si está en estado **SIN INICIAR.**
 
 
-[]({{ site.baseurl }}/assets/images/image210.png)
+![]({{ site.baseurl }}/assets/images/image210.png)
 
 
 _Visualización de tarea SIN INICIAR._
@@ -129,7 +129,7 @@ Cuando está **EN MARCHA**
 *   Solo permite cambiar el estado a **TERMINADA**.
 
 
-[]({{ site.baseurl }}/assets/images/image211.png)
+![]({{ site.baseurl }}/assets/images/image211.png)
 
 _Visualización de tarea EN MARCHA_
 
@@ -138,7 +138,7 @@ Cuando está **TERMINADA**
 *   No permite hacer ajustes.
 
 
-[]({{ site.baseurl }}/assets/images/image212.png)
+![]({{ site.baseurl }}/assets/images/image212.png)
 
 _Visualización de tarea TERMINADA_
 
@@ -149,7 +149,7 @@ _Visualización de tarea TERMINADA_
 
 El inventario o los productos necesarios para la ejecución del servicio, se cargarán de forma automática con los recursos básicos configurados por el administrador para ese servicio. El despachador puede modificar la cantidad de repuestos asociados a la orden según las necesidades del servicio.
 
-[]({{ site.baseurl }}/assets/images/image213.png)
+![]({{ site.baseurl }}/assets/images/image213.png)
 _Pantalla de asociación de repuestos para la orden_
 
 ### **Costos de la orden de trabajo** {#costos-de-la-orden-de-trabajo}
@@ -161,7 +161,7 @@ El sistema calculaautomáticamente el costo total de operación de un servicio s
 *   **Costo del transporte:** no tendrá un valor registrado hasta que el especialista en campo termine las actividades y cierre la orden de trabajo. El costo del transporte corresponde al valor configurado por kilómetro según el medio de transporte, multiplicado por la cantidad de kilómetros recorridos.
 *   **Costo del especialista:** se actualizará cuando el responsable atienda la orden de trabajo. El costo del especialista por hora lo configura el administrador y este valor se multiplica por el número de horas registradas por el especialista en la atención de la orden asignada.
 
-[]({{ site.baseurl }}/assets/images/image214.png)
+![]({{ site.baseurl }}/assets/images/image214.png)
 
 _Costos generados por la orden de trabajo._
 
@@ -172,7 +172,7 @@ En la pestaña **Comentarios** quedan registradas las notas, los comentarios y l
 Tanto el despachador, como el especialista podrán agregar información relevante para la atención de la orden, como cambios a la solicitud de registro, confirmación de inventario, seguimiento al especialista en campo, recomendaciones y sugerencias.
 
 
-[]({{ site.baseurl }}/assets/images/image215.png)
+![]({{ site.baseurl }}/assets/images/image215.png)
 
 _Pantalla de visualización de comentarios, cambios y notas_
 
@@ -182,13 +182,13 @@ Las notas públicas o privadas se ingresan en el campo para notas que aparece en
 
 Por defecto, el campo de notas tiene activa la opción **PRIVADA** (icono de candado), es decir que solo será visible para los especialistas.
 
-[]({{ site.baseurl }}/assets/images/image216.png)
+![]({{ site.baseurl }}/assets/images/image216.png)
 
 _Campo de nota PRIVADA_
 
 Si desea enviar una nota pública, (visible para todos los usuarios incluidos los de la consola AssistMe), haga clic en el botón tipo switch para cambiarla a **PÚBLICA** (icono de globo terráqueo).
 
-[]({{ site.baseurl }}/assets/images/image216.png)
+![]({{ site.baseurl }}/assets/images/image216.png)
 
 _Campo de nota PÚBLICA_
 
@@ -199,19 +199,19 @@ _Campo de nota PÚBLICA_
 
 Los cambios a la orden de trabajo los puede realizar el despachador, el monitor o el especialista y se registran de la siguiente manera:
 
-[]({{ site.baseurl }}/assets/images/image217.png)
+![]({{ site.baseurl }}/assets/images/image217.png)
 _Pantalla de visualización de cambios_
 
 ### **Cronómetros en la orden de trabajo** {#cron-metros-en-la-orden-de-trabajo}
 
 Los cronómetros de los acuerdos asociados a una orden de trabajo permiten visualizar el avance y cumplimiento de cada etapa del servicio, ya sean acuerdos con los clientes o con el proveedor:
 
-[]({{ site.baseurl }}/assets/images/image218.png)
+![]({{ site.baseurl }}/assets/images/image218.png)
 
 _Pantalla de acuerdos con el cliente_
 
 
-[]({{ site.baseurl }}/assets/images/image219.png)
+![]({{ site.baseurl }}/assets/images/image219.png)
 _Pantalla de acuerdos con el proveedor_
 
 ### **Alertas generadas para la orden de trabajo** {#alertas-generadas-para-la-orden-de-trabajo}
@@ -224,23 +224,23 @@ Si el sistema encuentra alguna incompatibilidad en la asignación automática de
 
 El despachador, debe analizar y valorar las alertas registradas y determinar si continúa con el proceso de generación de la orden o no.
 
-[]({{ site.baseurl }}/assets/images/image220.png)
+![]({{ site.baseurl }}/assets/images/image220.png)
 
 _Pantalla de visualización de Alertas generadas para la orden_
 
 Esta pantalla también reporta el estado de la encuesta de satisfacción del cliente. Cuando aparezca en estado **RESPONDIDA**, podrá visualizar los resultados haciendo clic en el botón **Ver Resultados**.
-[]({{ site.baseurl }}/assets/images/image221.png)
+![]({{ site.baseurl }}/assets/images/image221.png)
 
 _Botón de consulta de resultados de la encuesta_
 
-[]({{ site.baseurl }}/assets/images/image222.png)
+![]({{ site.baseurl }}/assets/images/image222.png)
 _Pantalla de resultados de la encuesta_
 
 ### **Campos adicionales de la orden de trabajo** {#campos-adicionales-de-la-orden-de-trabajo}
 
 En esta pestaña puede visualizar los campos adicionales generales para todas las órdenes y los configurados para un servicio específico. Esta información se presenta así:
 
-[]({{ site.baseurl }}/assets/images/image223.png)
+![]({{ site.baseurl }}/assets/images/image223.png)
 
 _Visualización de los campos adicionales generales y por servicio._
 
@@ -257,7 +257,7 @@ Pueden ser diligenciados o visualizados por el monitor o especialista dependiend
 Esta pestaña permite comparar la firma registrada del cliente (desde la configuración) con la firma que haga el cliente al momento de tomar el servicio (desde la móvil):
 
 
-[]({{ site.baseurl }}/assets/images/image224.png)
+![]({{ site.baseurl }}/assets/images/image224.png)
 
 _Pantalla de visualización de firmas para la orden_
 
@@ -265,25 +265,25 @@ _Pantalla de visualización de firmas para la orden_
 
 Puede crear o editar la información de un cliente desde la pantalla de creación de la orden de trabajo:
 
-[]({{ site.baseurl }}/assets/images/image225.png)
+![]({{ site.baseurl }}/assets/images/image225.png)
 
 _Opciones para creación de nuevo cliente desde la orden_
 
 Se solicitan los mismos datos básicos que desde la configuración de clientes:
 
-[]({{ site.baseurl }}/assets/images/image226.png)
+![]({{ site.baseurl }}/assets/images/image226.png)
 
 _Pantalla de nuevo cliente desde la orden_
 
 También puede editar la información del cliente desde el módulo de creación de la orden de trabajo:
 
-[]({{ site.baseurl }}/assets/images/image227.png)
+![]({{ site.baseurl }}/assets/images/image227.png)
 
 _Pantalla editar cliente desde la orden_
 
 Si se consulta una orden ya creada, la información del cliente se visualizará de la siguiente manera:
 
-[]({{ site.baseurl }}/assets/images/image228.png)
+![]({{ site.baseurl }}/assets/images/image228.png)
 
 _Pantalla de información de cliente_
 
@@ -291,12 +291,12 @@ _Pantalla de información de cliente_
 
 En la pestaña **Relaciones** podrá vincular 2 o más órdenes de trabajo. Para crear una relación, haga clic en el botón **Nueva relación**:
 
-[]({{ site.baseurl }}/assets/images/image229.png)
+![]({{ site.baseurl }}/assets/images/image229.png)
 
 Aparecerá la siguiente pantalla donde deberá seleccionar si la relación será de sucesión o de vínculo:
 
 
-[]({{ site.baseurl }}/assets/images/image230.png)
+![]({{ site.baseurl }}/assets/images/image230.png)
 
 
 *   **Sucesión:** significa que es necesario atender otra orden de trabajo antes de atender la orden sobre la cual se está realizando la relación.
@@ -304,7 +304,7 @@ Aparecerá la siguiente pantalla donde deberá seleccionar si la relación será
 
 Luego busque la orden sobre la cual va a generar la relación:
 
-[]({{ site.baseurl }}/assets/images/image231.png)
+![]({{ site.baseurl }}/assets/images/image231.png)
 
 Una vez creada, la relación se visualiza de la siguiente manera:
 
