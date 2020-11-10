@@ -10,7 +10,7 @@ Estos reportes presentan información netamente de inventario, ya sea general, o
 | **Nota:** si el perfil con el que se inició la sesión es gestor de inventario, se presentará la opción de visualizar todos los proveedores. |
 | --- |
 
-### **Reporte completo** {#reporte-completo}
+### **Reporte completo**
 
 Este reporte presenta al usuario un resumen de los movimientos de entradas, salidas y devoluciones inventario realizados dentro de un rango de fechas, sobre una o todas las sedes.
 
@@ -37,7 +37,7 @@ La grilla de datos generada con el reporte muestra información más detallada s
 
 _Grilla del reporte generado_
 
-### **Reporte por servicio** {#reporte-por-servicio}
+### **Reporte por servicio**
 
 Este reporte presenta al usuario un resumen de la utilización de inventario en órdenes de un servicio específico o de todos los servicios, dentro de un rango de fecha.
 
@@ -63,7 +63,7 @@ La grilla de datos generada con el reporte muestra información más detallada s
 
 _Grilla del reporte generado_
 
-### **Reporte por sede** {#reporte-por-sede}
+### **Reporte por sede**
 
 Este reporte presenta al usuario un resumen de los movimientos de inventario para una sede o para todas las sedes.
 
@@ -85,7 +85,7 @@ La grilla de datos generada con el reporte muestra información más detallada s
 
 _Grilla del reporte generado_
 
-### **Reporte por especialista** {#reporte-por-especialista}
+### **Reporte por especialista** 
 
 Este reporte presenta al usuario un resumen de los movimientos de inventario para un especialista o para todos los especialistas.
 
