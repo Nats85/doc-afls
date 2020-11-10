@@ -7,7 +7,7 @@ En la opción **Planeación** del módulo de **Monitoreo**, el monitor puede emp
 
 ![]({{ site.baseurl }}/assets/images/image319.png)
 
-### **Filtrando y ordenando la consulta de planeación** {#filtrando-y-ordenando-la-consulta-de-planeaci-n}
+### **Filtrando y ordenando la consulta de planeación**
 
 Puede filtrar la información de la consulta bajo los siguientes criterios:
 
@@ -20,7 +20,7 @@ Puede filtrar la información de la consulta bajo los siguientes criterios:
 
 Al seleccionar uno de los especialistas arrojados por la consulta, en el panel de la derecha visualizará la información de las órdenes, presentada en dos pestañas: **Agenda de órdenes** y **Plan de rutas**.
 
-### **Agenda de órdenes** {#agenda-de-rdenes}
+### **Agenda de órdenes**
 
 En esta pestaña podrá observar la carga que se le ha asignado a cada uno de los especialistas seleccionados. Cada orden contiene información sobre el momento en que el especialista inicia el desplazamiento y el tiempo programado de ejecución y finalización del trabajo. Los espacios en la gráfica donde no existen órdenes programadas se consideran tiempos muertos.
 
@@ -35,7 +35,7 @@ A través de los controles ubicados en la parte superior derecha, el monitor pue
 
 Al mover el puntero sobre cualquier orden se puede observar un resumen de la misma y se despliega las horas de desplazamiento y la hora programada de inicio. Así mismo el botón de “ver orden” abrirá el detalle.
 
-### **Plan de rutas** {#plan-de-rutas}
+### **Plan de rutas**
 
 En esta pestaña el usuario podrá visualizar el mapa con la ruta planeada para uno o varios especialistas y las posiciones en las que se encontrarán de acuerdo al rango de fecha seleccionado.
 
