@@ -6,13 +6,13 @@ chapter: "configurando"
 A continuación, encontrará la información de cada uno de los módulos que se pueden configurar desde el perfil Monitor. Ingrese por la opción **Configuración &gt; Monitor**
 
 
-[]({{ site.baseurl }}/assets/images/image192.png)
+![]({{ site.baseurl }}/assets/images/image192.png)
 
 _Opción para ingresar a Configuración como Monitor_
 
 Al costado izquierdo encontrará el selector de proveedores que tienen asociado el monitor con el que se inició sesión en la aplicación.
 
-[]({{ site.baseurl }}/assets/images/image193.png)
+![]({{ site.baseurl }}/assets/images/image193.png)
 
 _Selector de proveedores_
 
@@ -22,7 +22,7 @@ _Selector de proveedores_
 
 Para adicionar usuarios con rol de especialista, seleccione el botón **Nuevo** de la categoría **Usuarios** y defina los campos que aparecen en la pestaña **Información**.
 
-[]({{ site.baseurl }}/assets/images/image194.png)
+![]({{ site.baseurl }}/assets/images/image194.png)
 
 _Pantalla de configuración para información básica del usuario móvil (Especialista de campo)._
 
@@ -30,7 +30,7 @@ _Pantalla de configuración para información básica del usuario móvil (Especi
 
 En la pestaña **Grupos Móvil** podrá asociar los grupos a los que pertenece el usuario especialista:
 
-[]({{ site.baseurl }}/assets/images/image195.png)
+![]({{ site.baseurl }}/assets/images/image195.png)
 
 _Pantalla de asociación de grupos móviles_
 
@@ -38,7 +38,7 @@ _Pantalla de asociación de grupos móviles_
 
 En la pestaña **Disponibilidad** podrá configurar la disponibilidad de tiempo del especialista.
 
-[]({{ site.baseurl }}/assets/images/image196.png)
+![]({{ site.baseurl }}/assets/images/image196.png)
 
 _Pantalla de configuración de disponibilidad del usuario móvil._
 
@@ -49,7 +49,7 @@ _Pantalla de configuración de disponibilidad del usuario móvil._
 
 Las habilidades de los usuarios especialistas se pueden configurar en la pestaña **Disponibilidad** o también se pueden heredar las de los grupos móviles asociados.
 
-[]({{ site.baseurl }}/assets/images/image197.png)
+![]({{ site.baseurl }}/assets/images/image197.png)
 
 ### Grupos de usuarios móviles {#grupos-de-usuarios-m-viles}
 
