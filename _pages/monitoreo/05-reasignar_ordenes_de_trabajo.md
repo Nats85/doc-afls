@@ -5,11 +5,11 @@ chapter: "monitoreo"
 
 La opción **Reasignar** del módulo de **Monitoreo**, solo estará disponible para un usuario que tenga rol de administrador y de monitor.
 
-[]({{ site.baseurl }}/assets/images/image324.png)
+![]({{ site.baseurl }}/assets/images/image324.png)
 
 _Opción a seleccionar para la pantalla de Reasignar_
 
-[]({{ site.baseurl }}/assets/images/image325.png)
+![]({{ site.baseurl }}/assets/images/image325.png)
 
 _Pantalla de Reasignación de órdenes_
 
