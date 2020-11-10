@@ -3,25 +3,25 @@ title: Conociendo las opciones generales de la consola móvil
 chapter: "ingresando"
 ---
 
-### **Perfil** {#perfil}
+### **Perfil**
 
 Este módulo permite editar el nombre, el teléfono y el email del especialista, siempre cumpliendo con las validaciones mínimas de los diferentes campos.
 
 ![]({{ site.baseurl }}/assets/images/image393.png)
 
-### **Seguridad** {#seguridad}
+### **Seguridad**
 
 Este módulo permite modificar la contraseña actual.
 
 ![]({{ site.baseurl }}/assets/images/image394.png)
 
-### **Noticias** {#noticias}
+### **Noticias**
 
 En esta sección se visualiza la página web que se haya configurado en la opción Perfil &gt; Ajustes Globales &gt; Consola especialista &gt; URL de noticias en AFLS Web.
 
 ![]({{ site.baseurl }}/assets/images/image395.png)
 
-### **Capas de mapas** {#capas-de-mapas}
+### **Capas de mapas**
 
 Los especialistas en campo pueden decidir cuáles capas de mapas descargar en su dispositivo móvil. También pueden ver la última fecha de sincronización y tienen la opción de eliminar las capas cuando lo consideren necesario.
 
@@ -35,7 +35,7 @@ Al seleccionar el globo (tooltip) de alguna de las localizaciones de la capa, se
 
 ![]({{ site.baseurl }}/assets/images/image398.png)
 
-### **Inventario** {#inventario}
+### **Inventario**
 
 Esta sección muestra la información del inventario que maneja el especialista durante el día laboral:
 
@@ -58,13 +58,13 @@ El especialista puede buscar productos específicos en cada una de las sedes.
 
 _Visualización de productos y Cantidad Disponible_
 
-### **Resumen** {#resumen}
+### **Resumen**
 
 Esta sección muestra un resumen de la información relacionada con la aplicación y su fecha de compilación.
 
 ![]({{ site.baseurl }}/assets/images/image405.png)
 
-### **Configuración** {#configuraci-n}
+### **Configuración**
 
 Aquí puede visualizar la configuración de los siguientes aspectos:
 
@@ -96,7 +96,7 @@ Si por problemas de conectividad o comunicación con el servidor web el inicio d
 
 _Sincronización de bibliotecas cuando el inicio de sesión es incorrecto_
 
-### **Cerrar sesión** {#cerrar-sesi-n}
+### **Cerrar sesión** 
 
 Al cerrar sesión se borran todos los datos guardados por la aplicación en el teléfono, incluidas las órdenes de trabajo que no alcanzaron sincronizarse.
 
