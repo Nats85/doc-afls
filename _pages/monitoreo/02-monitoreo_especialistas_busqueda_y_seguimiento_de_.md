@@ -5,7 +5,7 @@ chapter: "monitoreo"
 
 Para lograr una visión general de la prestación del servicio y del progreso de un especialista durante la atención de una orden, en el módulo de **Monitoreo** está la opción **Especialistas**, donde el monitor podrá realizar búsquedas básicas o detalladas ingresando en el buscador los datos del especialista asignado a la orden.
 
-[]({{ site.baseurl }}/assets/images/image314.png)
+![]({{ site.baseurl }}/assets/images/image314.png)
 
 ### **Filtrando y ordenando la consulta de seguimiento** {#filtrando-y-ordenando-la-consulta-de-seguimiento}
 
@@ -19,10 +19,10 @@ Puede filtrar la información de la consulta bajo los siguientes criterios:
 *   **Grupos**: filtra los especialistas según el grupo al que estén asociados.
 *   **Estado**: filtra los especialistas que tengan habilitada la disponibilidad como criterio de consulta.
 
-[]({{ site.baseurl }}/assets/images/image315.png)
+![]({{ site.baseurl }}/assets/images/image315.png)
 
 Al seleccionar uno de los especialistas arrojados por la consulta, el monitor puede efectuar distintas tareas de seguimiento y control, como visualizar en un mapa la ubicación y los desplazamientos del especialista en tiempo real e identificar la ubicación geográfica de la orden de trabajo asociada al especialista.
 
-[]({{ site.baseurl }}/assets/images/image316.png)
+![]({{ site.baseurl }}/assets/images/image316.png)
 
 _Pantalla de monitoreo con puntos registrados por uno de los especialistas_
