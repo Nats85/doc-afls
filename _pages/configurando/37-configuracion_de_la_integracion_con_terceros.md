@@ -20,7 +20,7 @@ Campos a diligenciar:
 *   **Estado:** indica si el proceso de sincronización se debe ejecutar o no.
 *   **Actualizar ahora:** es un botón de una sola ejecución, que inicia el proceso al siguiente minuto.
 
-### **Importando compañías de terceros a AFLS** {#importando-compa-as-de-terceros-a-afls}
+### **Importando compañías de terceros a AFLS**
 
 AFLS ejecuta una sincronización de las compañías que se encuentran en otros sistemas por medio del componente ya configurado, los campos que se sincronizan son:
 
@@ -35,7 +35,7 @@ AFLS ejecuta una sincronización de las compañías que se encuentran en otros s
 
 _Compañías de terceros sincronizadas_
 
-### **Importando clientes de terceros a AFLS** {#importando-clientes-de-terceros-a-afls}
+### **Importando clientes de terceros a AFLS** 
 
 AFLS ejecuta una sincronización de las compañías que se encuentran en otros sistemas por medio del componente ya configurado, los campos que se sincronizan son:
 
