@@ -17,13 +17,13 @@ Grupos de usuario móvil
 *   Permiten configurar la disponibilidad
 *   Permiten configurar las habilidades
 
-### Grupos de usuarios web {#grupos-de-usuarios-web}
+### Grupos de usuarios web
 
 ![]({{ site.baseurl }}/assets/images/image94.png)
 
 Para adicionar un grupo web, haga clic en el botón **Nuevo** de la categoría **Grupos &gt; Grupos web** y diligencie los campos que se visualizan en la pestaña **Grupos Web** al lado derecho de la pantalla; por último, vaya a la pestaña **Usuarios** y seleccione los usuarios que conformarán el grupo.
 
-### Grupos de usuarios móviles {#grupos-de-usuarios-m-viles}
+### Grupos de usuarios móviles
 
 
 ![]({{ site.baseurl }}/assets/images/image95.png)
@@ -31,7 +31,7 @@ Para adicionar un grupo web, haga clic en el botón **Nuevo** de la categoría *
 
 Para adicionar un grupo móvil, haga clic en el botón **Nuevo** de la categoría **Grupos &gt; Grupos móvil**, y llene los campos que se visualizan en las pestañas **Grupos Móvil, Usuarios, Habilidades y Disponibilidad** al lado derecho de la pantalla.
 
-#### Disponibilidad y habilidades heredadas a un especialista por un grupo móvil {#disponibilidad-y-habilidades-heredadas-a-un-especialista-por-un-grupo-m-vil}
+#### Disponibilidad y habilidades heredadas a un especialista por un grupo móvil
 
 Cuando un especialista se asocia a un grupo, este hereda las características de disponibilidad que se hayan determinado para dicho grupo.
 
@@ -44,7 +44,7 @@ En la parte inferior aparece la convención de cuál es la disponibilidad del gr
 
 Igualmente, el especialista hereda las habilidades que se hayan configurado para el grupo y estas se suman a las que tenga configuradas como usuario. Estas habilidades deben crearse en la opción de **Habilidades** para poder asociarlas al respectivo grupo.
 
-![]({{ site.baseurl }}/assets/images/image97.png) 
+![]({{ site.baseurl }}/assets/images/image97.png)
 
 | **Nota:** Desde esta instancia no se pueden editar las habilidades del usuario. |
 | --- |
