@@ -10,7 +10,7 @@ Estos reportes tienen una orden asociada y por ende un proveedor asociado. Los m
 | **Nota:** si el perfil con el que se inició la sesión es monitor + despachador, se presentará la opción de visualizar todos los proveedores. |
 | --- |
 
-### **Reporte de órdenes creadas** {#reporte-de-rdenes-creadas}
+### **Reporte de órdenes creadas**
 
 Este reporte presenta al usuario una estadística de las órdenes de trabajo creadas en AFLS. El sistema permite consultar las órdenes de trabajo creadas para un servicio en específico o para todos los servicios dentro de un rango de fechas.
 
@@ -32,7 +32,7 @@ El reporte incluye también una grilla con los datos más relevantes de las órd
 ![]({{ site.baseurl }}/assets/images/image281.png)
 _Grilla del reporte generado para órdenes creadas_
 
-### **Reporte de costos** {#reporte-de-costos}
+### **Reporte de costos**
 
 Este reporte presenta al usuario una estadística del costo de las órdenes de trabajo ejecutadas dentro de un rango de tiempo y permite filtrarlas por servicio y por compañía.
 
@@ -69,7 +69,7 @@ La grilla de datos muestra información más detallada de los costos:
 
 _Grilla del reporte generado para costos_
 
-### **Reporte de tendencia de servicio** {#reporte-de-tendencia-de-servicio}
+### **Reporte de tendencia de servicio**
 
 Este reporte presenta al usuario un resumen del comportamiento de un servicio dentro de AFLS y le permitirá al administrador de la mesa validar si se están cumpliendo las metas propuestas para ese servicio. Aquí el usuario podrá consultar específicamente la tendencia de un servicio en el último año, el último mes o la última semana.
 
@@ -91,7 +91,7 @@ En **promedio de cronómetro de solución**, se muestra una gráfica indicando e
 
 En **tendencia de servicio**, se muestra una gráfica indicando la tendencia en la creación y cierre de los casos u órdenes correspondientes al servicio y periodo seleccionados. Esta gráfica permite comparar el número de órdenes creadas con el número de órdenes ejecutadas.
 
-### **Reporte de promedio de tiempo de solución de órdenes por servicio** {#reporte-de-promedio-de-tiempo-de-soluci-n-de-rdenes-por-servicio}
+### **Reporte de promedio de tiempo de solución de órdenes por servicio**
 
 Este reporte indica la velocidad a la que se solucionan las órdenes de trabajo. Ayudará al monitor a saber cuáles servicios tardan más tiempo, y posiblemente requieran mayor atención o más personal para dar solución. Aquí el usuario podrá consultar los servicios según el rango de fecha seleccionado.
 
@@ -112,7 +112,7 @@ El reporte muestra una gráfica que indica el total de horas que se han empleado
 
 La grilla de datos generada muestra información más detallada sobre las horas empleadas en atención y ejecución de cada orden de trabajo.
 
-### **Reporte de órdenes ejecutadas por especialista** {#reporte-de-rdenes-ejecutadas-por-especialista}
+### **Reporte de órdenes ejecutadas por especialista**
 
 Este reporte indica el desempeño de los especialistas en un rango de tiempo con respecto a un servicio en particular. Aquí es posible ver cuáles especialistas han ejecutado la mayor cantidad de órdenes y el tiempo que han tardado en ejecutarlas.
 
@@ -133,7 +133,7 @@ La grilla de datos generada con el reporte muestra el total de órdenes ejecutad
 | **Nota**: si el servicio no tiene órdenes dentro del rango de fecha seleccionado, el sistema presentará un mensaje indicando que no hay datos para el filtro configurado. |
 | --- |
 
-### **Reporte de cumplimiento de SLA** {#reporte-de-cumplimiento-de-sla}
+### **Reporte de cumplimiento de SLA**
 
 Este reporte indica la cantidad de casos por servicio que fueron solucionados en un rango de tiempo en AFLS. Aquí el usuario podrá consultar la cantidad de órdenes creadas y que se encuentren dentro o fuera del SLA de solución.
 
@@ -153,7 +153,7 @@ En **servicios dentro del SLA**, se muestra una gráfica indicando la cantidad d
 
 La grilla de datos generada con el reporte muestra la información detallada de cada una de las órdenes ejecutadas.
 
-### **Reporte de cumplimiento del nivel de satisfacción.** {#reporte-de-cumplimiento-del-nivel-de-satisfacci-n}
+### **Reporte de cumplimiento del nivel de satisfacción.**
 
 Este reporte detalla el nivel de satisfacción de los clientes según una encuesta específica en determinado periodo de tiempo.
 
