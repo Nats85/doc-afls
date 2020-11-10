@@ -23,7 +23,7 @@ Al seleccionar un producto de la lista, aparecerá el botón **RECOGER**; el esp
 | **Nota**: Esta funcionalidad solo está disponible en línea. |
 | --- |
 
-### **Filtrando y ordenando las órdenes asignadas** {#filtrando-y-ordenando-las-rdenes-asignadas}
+### **Filtrando y ordenando las órdenes asignadas**
 
 En la esquina superior derecha de la consola móvil se encuentra el menú para desplegar los filtros por estado y los criterios para ordenar las órdenes de trabajo asignadas al especialista en campo:
 
@@ -31,7 +31,7 @@ En la esquina superior derecha de la consola móvil se encuentra el menú para d
 
 _Filtros y criterios para ordenar_
 
-### **Detalles de la orden de trabajo** {#detalles-de-la-orden-de-trabajo}
+### **Detalles de la orden de trabajo**
 
 Al tocar cualquiera de las órdenes de la lista, podrá visualizar los detalles de esa orden de trabajo.
 
@@ -48,7 +48,7 @@ En la pantalla de detalles el especialista en campo podrá actualizar el estado 
 
 En el caso de una orden con servicio tipo Desplazamiento, el especialista podrá además utilizar la opción **VER RUTA** para visualizar el recorrido propuesto a través de la aplicación de mapas que el dispositivo tenga configurada por defecto.
 
-### **Cambio de estados** {#cambio-de-estados}
+### **Cambio de estados**
 
 El cambio de estados permite reportar los tiempos de atención, las pausas en el servicio y el cierre de la orden.
 
@@ -76,7 +76,7 @@ _Visualización de razones_
 | **Nota**: todos los cambios serán visibles por el monitor para que pueda hacer el seguimiento y las modificaciones que sean necesarias. |
 | --- |
 
-### **Acciones** {#acciones}
+### **Acciones**
 
 Dependiendo de la etapa en la que se encuentre el servicio, en la consola móvil se habilitarán las siguientes acciones para que el especialista las ejecute según el caso:
 
