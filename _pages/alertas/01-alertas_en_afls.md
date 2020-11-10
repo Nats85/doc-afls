@@ -7,7 +7,8 @@ Como parte importante del monitoreo de la operación, AFLS provee un conjunto de
 
 En el módulo **Alertas** encontrará dos opciones: **Proveedores** (asociadas a una orden de trabajo)y **Generales** (las que no tienen proveedor asociado, ej. las encuestas que se envían directamente a un cliente).
 
-[]({{ site.baseurl }}/assets/images/image326.png)
+![]({{ site.baseurl }}/assets/images/image326.png)
+
 
 _Opción de Alertas Generales_
 
