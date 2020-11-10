@@ -13,7 +13,7 @@ La gestión de Aranda FIELD SERVICE se desarrolla en cuatro etapas que permiten 
 
 Definido el registro, se programa la instalación en fechas y horas que se ajusten a la disponibilidad del cliente y del especialista en campo, se asigna la orden de trabajo al (los) especialista(s) en campo con la experiencia y habilidades requeridas para el servicio solicitado y finalmente se asignan los repuestos y cantidades a utilizar en la instalación del servicio (cableado, antena de televisión, modem TV, modem internet, control remoto, entre otros).
 
-2.  **_Atención_:** En esta etapa se realiza la atención en campo de las solicitudes de servicio. La consola móvil de la aplicación cuenta con una opción que permite al especialista en campo administrar el ciclo de vida de la orden de trabajo a través de diferentes estados: Abierta, En proceso y Cierre.
+2. _Atención_: En esta etapa se realiza la atención en campo de las solicitudes de servicio. La consola móvil de la aplicación cuenta con una opción que permite al especialista en campo administrar el ciclo de vida de la orden de trabajo a través de diferentes estados: Abierta, En proceso y Cierre.
 
 **Ejemplo:** En la gestión de un servicio de instalación de televisión e internet con Aranda FIELD SERVICE, la atención de la orden de trabajo inicia en el momento en que el especialista en campo es notificado del servicio e incluye el desplazamiento del especialista al lugar referenciado y las actividades de instalación del servicio como revisión del cableado, instalación física de la antena, configuración de los paquetes de televisión y señal de internet, activación de servicios y actualización de los estados de atención de la orden de trabajo.
 
