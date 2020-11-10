@@ -9,7 +9,7 @@ En esta sección se encuentran los reportes que no están asociados a órdenes d
 
 _Opción para visualización de reportes generales_
 
-### **Reporte de cumplimiento del nivel de satisfacción general.** {#reporte-de-cumplimiento-del-nivel-de-satisfacci-n-general}
+### **Reporte de cumplimiento del nivel de satisfacción general.**
 
 Este reporte detalla el nivel de satisfacción general de los clientes a partir de una encuesta que se envía en cualquier momento directamente desde el módulo de encuestas, y que no está asociada a ninguna orden.
 
