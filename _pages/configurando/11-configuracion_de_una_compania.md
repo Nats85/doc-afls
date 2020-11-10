@@ -11,7 +11,7 @@ El estado para la operación del servicio será “Activo”.
 ![]({{ site.baseurl }}/assets/images/image60.png)
 
 
-### **Servicios asociados a una compañía** {#servicios-asociados-a-una-compa-a}
+### **Servicios asociados a una compañía**
 
 En la pestaña **Servicios** puede asociar y activar cualquiera de los servicios ya configurados anteriormente.
 
@@ -19,7 +19,7 @@ En la pestaña **Servicios** puede asociar y activar cualquiera de los servicios
 ![]({{ site.baseurl }}/assets/images/image61.png)
 
 
-### **Campos adicionales de la compañía**  {#campos-adicionales-de-la-compa-a}
+### **Campos adicionales de la compañía**
 
 En la pestaña **Campos adicionales** podrá ingresar la información solicitada en los campos adicionales que se hayan creado en el módulo de configuración. Estos campos están habilitados para poder ser utilizados al momento de configurar la compañía.
 
