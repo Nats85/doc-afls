@@ -47,7 +47,7 @@ La nueva orden quedará con fecha de creación del momento en el que se generó 
 
 Una vez creada la orden de trabajo y asignados los responsables y los recursos, el especialista tendrá la información pertinente para atender la orden en la fecha programada, el monitor podrá realizar el seguimiento y control, y el despachador podrá consultar, editar, reasignar y cerrar la orden.
 
-### **Creación de una orden de emergencia o prioritaria** {#creaci-n-de-una-orden-de-emergencia-o-prioritaria}
+### **Creación de una orden de emergencia o prioritaria**
 
 ![]({{ site.baseurl }}/assets/images/image203.png)
 
@@ -69,7 +69,7 @@ _Orden marcada como Emergencia_
 
 _Orden marcada como Prioridad_
 
-### **Asignación de un especialista a la orden de trabajo** {#asignaci-n-de-un-especialista-a-la-orden-de-trabajo}
+### **Asignación de un especialista a la orden de trabajo**
 
 Una vez creada la orden, al abrirla, en la pestaña **Asignación** encontrará tres tipos posibles de asignación de especialistas:
 
@@ -145,14 +145,14 @@ _Visualización de tarea TERMINADA_
 | **NOTA**: Los ajustes realizados sobre esta lista de tareas (Agregar, reorganizar o desasociar), no afectan las tareas configuradas originalmente en el servicio. |
 | --- |
 
-### **Asignación de productos a la orden de trabajo (Inventario)** {#asignaci-n-de-productos-a-la-orden-de-trabajo-inventario}
+### **Asignación de productos a la orden de trabajo (Inventario)**
 
 El inventario o los productos necesarios para la ejecución del servicio, se cargarán de forma automática con los recursos básicos configurados por el administrador para ese servicio. El despachador puede modificar la cantidad de repuestos asociados a la orden según las necesidades del servicio.
 
 ![]({{ site.baseurl }}/assets/images/image213.png)
 _Pantalla de asociación de repuestos para la orden_
 
-### **Costos de la orden de trabajo** {#costos-de-la-orden-de-trabajo}
+### **Costos de la orden de trabajo**
 
 El sistema calculaautomáticamente el costo total de operación de un servicio sumando los siguientes costos:
 
@@ -165,7 +165,7 @@ El sistema calculaautomáticamente el costo total de operación de un servicio s
 
 _Costos generados por la orden de trabajo._
 
-### **Notas y comentarios en la orden de trabajo** {#notas-y-comentarios-en-la-orden-de-trabajo}
+### **Notas y comentarios en la orden de trabajo**
 
 En la pestaña **Comentarios** quedan registradas las notas, los comentarios y los cambios que realizan el despachador, el monitor o el especialista durante la creación o edición de una orden de trabajo, así como los mensajes que el usuario final ingresa como notas públicas desde la aplicación AssistMe, las cuales también serán visibles para el especialista en campo asignado.
 
@@ -176,7 +176,7 @@ Tanto el despachador, como el especialista podrán agregar información relevant
 
 _Pantalla de visualización de comentarios, cambios y notas_
 
-### **Notas Públicas y Privadas** {#notas-p-blicas-y-privadas}
+### **Notas Públicas y Privadas**
 
 Las notas públicas o privadas se ingresan en el campo para notas que aparece en el listado de órdenes de trabajo o en las pantallas de Edición/Creación desde la consola web (despachador o monitor) o desde la aplicación móvil (especialista en campo).
 
@@ -202,7 +202,7 @@ Los cambios a la orden de trabajo los puede realizar el despachador, el monitor 
 ![]({{ site.baseurl }}/assets/images/image217.png)
 _Pantalla de visualización de cambios_
 
-### **Cronómetros en la orden de trabajo** {#cron-metros-en-la-orden-de-trabajo}
+### **Cronómetros en la orden de trabajo**
 
 Los cronómetros de los acuerdos asociados a una orden de trabajo permiten visualizar el avance y cumplimiento de cada etapa del servicio, ya sean acuerdos con los clientes o con el proveedor:
 
@@ -214,7 +214,7 @@ _Pantalla de acuerdos con el cliente_
 ![]({{ site.baseurl }}/assets/images/image219.png)
 _Pantalla de acuerdos con el proveedor_
 
-### **Alertas generadas para la orden de trabajo** {#alertas-generadas-para-la-orden-de-trabajo}
+### **Alertas generadas para la orden de trabajo**
 
 Si el sistema encuentra alguna incompatibilidad en la asignación automática de una orden de trabajo, se generarán las alertas o notificaciones correspondientes en la consola de despacho. Las posibles razones que activan estas alertas, son:
 
@@ -236,7 +236,7 @@ _Botón de consulta de resultados de la encuesta_
 ![]({{ site.baseurl }}/assets/images/image222.png)
 _Pantalla de resultados de la encuesta_
 
-### **Campos adicionales de la orden de trabajo** {#campos-adicionales-de-la-orden-de-trabajo}
+### **Campos adicionales de la orden de trabajo**
 
 En esta pestaña puede visualizar los campos adicionales generales para todas las órdenes y los configurados para un servicio específico. Esta información se presenta así:
 
@@ -244,15 +244,15 @@ En esta pestaña puede visualizar los campos adicionales generales para todas la
 
 _Visualización de los campos adicionales generales y por servicio._
 
-### **Campos adicionales generales de orden de trabajo:** {#campos-adicionales-generales-de-orden-de-trabajo}
+### **Campos adicionales generales de orden de trabajo:**
 
 Estos campos adicionales generales aplican a todas las órdenes de trabajo que se creen en AFLS y se configuran en la pantalla **Configuración &gt; Campos adicionales &gt; Órdenes de trabajo**.
 
-### **Campos adicionales de orden de trabajo dado el servicio** {#campos-adicionales-de-orden-de-trabajo-dado-el-servicio}
+### **Campos adicionales de orden de trabajo dado el servicio**
 
 Pueden ser diligenciados o visualizados por el monitor o especialista dependiendo de los permisos configurados en los campos adicionales del modelo y del estado en el que esté la orden de trabajo.
 
-### **Firma de la orden de trabajo** {#firma-de-la-orden-de-trabajo}
+### **Firma de la orden de trabajo**
 
 Esta pestaña permite comparar la firma registrada del cliente (desde la configuración) con la firma que haga el cliente al momento de tomar el servicio (desde la móvil):
 
@@ -261,7 +261,7 @@ Esta pestaña permite comparar la firma registrada del cliente (desde la configu
 
 _Pantalla de visualización de firmas para la orden_
 
-### **Información del cliente** {#informaci-n-del-cliente}
+### **Información del cliente**
 
 Puede crear o editar la información de un cliente desde la pantalla de creación de la orden de trabajo:
 
@@ -287,7 +287,7 @@ Si se consulta una orden ya creada, la información del cliente se visualizará 
 
 _Pantalla de información de cliente_
 
-### **Relaciones de órdenes de trabajo** {#relaciones-de-rdenes-de-trabajo}
+### **Relaciones de órdenes de trabajo**
 
 En la pestaña **Relaciones** podrá vincular 2 o más órdenes de trabajo. Para crear una relación, haga clic en el botón **Nueva relación**:
 
