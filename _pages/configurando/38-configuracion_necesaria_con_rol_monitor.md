@@ -16,9 +16,9 @@ Al costado izquierdo encontrará el selector de proveedores que tienen asociado 
 
 _Selector de proveedores_
 
-### Especialistas {#especialistas}
+### Especialistas
 
-#### Información básica {#informaci-n-b-sica}
+#### Información básica
 
 Para adicionar usuarios con rol de especialista, seleccione el botón **Nuevo** de la categoría **Usuarios** y defina los campos que aparecen en la pestaña **Información**.
 
@@ -26,7 +26,7 @@ Para adicionar usuarios con rol de especialista, seleccione el botón **Nuevo** 
 
 _Pantalla de configuración para información básica del usuario móvil (Especialista de campo)._
 
-#### Grupos móviles asociados al usuario {#grupos-m-viles-asociados-al-usuario}
+#### Grupos móviles asociados al usuario
 
 En la pestaña **Grupos Móvil** podrá asociar los grupos a los que pertenece el usuario especialista:
 
@@ -34,7 +34,7 @@ En la pestaña **Grupos Móvil** podrá asociar los grupos a los que pertenece e
 
 _Pantalla de asociación de grupos móviles_
 
-#### Disponibilidad del usuario {#disponibilidad-del-usuario}
+#### Disponibilidad del usuario
 
 En la pestaña **Disponibilidad** podrá configurar la disponibilidad de tiempo del especialista.
 
@@ -45,13 +45,13 @@ _Pantalla de configuración de disponibilidad del usuario móvil._
 | **Nota:** Si el especialista se asocia a un grupo móvil que ya tiene una disponibilidad configurada, el especialista heredará dicha disponibilidad. La disponibilidad heredada se representa en color gris. |
 | --- |
 
-#### Habilidades del usuario {#habilidades-del-usuario}
+#### Habilidades del usuario
 
 Las habilidades de los usuarios especialistas se pueden configurar en la pestaña **Disponibilidad** o también se pueden heredar las de los grupos móviles asociados.
 
 ![]({{ site.baseurl }}/assets/images/image197.png)
 
-### Grupos de usuarios móviles {#grupos-de-usuarios-m-viles}
+### Grupos de usuarios móviles
 
 Para adicionar un grupo, debe seleccionar el botón **Nuevo** de la categoría **Grupos móvil** y definir los campos que están en las pestañas **Grupos Móvil**, **Usuarios**, **Habilidades** y **Disponibilidad**.
 
