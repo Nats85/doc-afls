@@ -12,7 +12,7 @@ Un **modelo** reúne diversas características comunes a los servicios. En parti
 
 Una vez se define un modelo con estas características es posible utilizarlo dentro de los servicios, de esta manera todos los servicios compartirán las características.
 
-### Creando un nuevo modelo {#creando-un-nuevo-modelo}
+### Creando un nuevo modelo
 
 Al crear un nuevo modelo es posible definir la información básica y asociar la encuesta de satisfacción. Para facilitar su uso, Aranda FIELD SERVICE incluye varios elementos utilizados dentro del modelo para que no sean creados desde cero.
 
@@ -26,11 +26,11 @@ Al ingresar a la edición de un modelo se pueden observar en el menú de la izqu
 
 ![]({{ site.baseurl }}/assets/images/image39.png)
 
-### Configurando un flujo de trabajo para su organización {#configurando-un-flujo-de-trabajo-para-su-organizaci-n}
+### Configurando un flujo de trabajo para su organización
 
 Cada organización ejecuta sus servicios de manera diferente. La configuración de los flujos de trabajo le permitirá adecuar la herramienta para cumplir con sus procedimientos particulares. El flujo de trabajo determina el ciclo de vida de las órdenes de trabajo. Cada actividad del flujo de trabajo será un paso que el especialista en campo debe llevar a cabo hasta finalizar un trabajo.
 
-#### Estados {#estados}
+#### Estados
 
 Dentro de un flujo de trabajo existen tres fases o estados principales que resumen los pasos de ejecución de la orden:
 
@@ -38,7 +38,7 @@ Dentro de un flujo de trabajo existen tres fases o estados principales que resum
 *   **En proceso:** esta fase incluye todos los pasos que debe ejecutar el especialista en campo para llevar a cabo una tarea. Los subestados definidos dentro de este estado guiarán al especialista paso por paso. Dentro de este estado puede crear los subestados que desee, sin embargo, es importante mantener la simplicidad del proceso.
 *   **Ejecutada:** la orden de trabajo finaliza en este estado, con dos posibles subestados: ejecutada o cancelada.
 
-#### Subestados {#subestados}
+#### Subestados
 
 El especialista en campo recibe las órdenes en el estado “En proceso” y es aquí donde los subestados le sirven de guía para la ejecución de una orden. El ciclo de vida de las órdenes se rige por los subestados y sus transiciones.
 
@@ -54,7 +54,7 @@ Al crear un subestado, el administrador puede configurar diferentes opciones que
 
 ![]({{ site.baseurl }}/assets/images/image40.png)
 
-#### Transiciones {#transiciones}
+#### Transiciones
 
 Otra parte importante del flujo de trabajo corresponde a las transiciones que se representan con flechas o caminos que van de un subestado a otro. Las transiciones tienen un contexto adicional y es que se convierten en “botones” que podrán utilizar los especialistas en campo o los agentes en la web para mover una orden de trabajo de un estado a otro.
 
@@ -64,7 +64,7 @@ Al configurar una transición, el nombre es importante, ya que con este dato se 
 
 Dentro de las transiciones también es posible crear un conjunto de razones. Esta información se solicitará al especialista en campo cuando cambie el estado de una orden de trabajo.
 
-#### Elementos especiales del flujo de trabajo {#elementos-especiales-del-flujo-de-trabajo}
+#### Elementos especiales del flujo de trabajo
 
 Dentro del flujo de trabajo existen algunos elementos que requieren especial atención. Están enumerados a continuación:
 
@@ -94,11 +94,11 @@ Este subestado es propio del sistema. Es un estado terminal que indica que la or
 
 Teniendo en cuenta que una orden de trabajo puede incluir múltiples actividades (subestados), y algunas de estas actividades pueden llevarse a cabo antes de tener contacto con el cliente (desplazamiento, preparación, etc), existe una actividad que indica que se inicia la labor en campo en el lugar especificado. Este estado tiene una marca en forma de estrella y corresponde al primer subestado en el que corre el tiempo de ejecución.
 
-#### Modificando el flujo de trabajo {#modificando-el-flujo-de-trabajo}
+#### Modificando el flujo de trabajo
 
 El administrador de la herramienta puede modificar el flujo de trabajo configurado por defecto incluyendo nuevos subestados y transiciones. Para crear una nueva actividad utilice el botón . El nuevo subestado se creará en el nivel inmediatamente inferior. Para crear una transición se debe arrastrar y soltar el cursor desde la actividad inicial hasta la final.
 
-#### Modificando los acuerdos dentro de los modelos {#modificando-los-acuerdos-dentro-de-los-modelos}
+#### Modificando los acuerdos dentro de los modelos
 
 Generalmente los niveles de acuerdo de servicio dentro de las organizaciones son comunes a los diferentes modelos, sin embargo, puede darse el caso de que algunos modelos requieran comportamientos singulares, por ejemplo, que los acuerdos de tiempo sean diferentes.
 
@@ -110,7 +110,7 @@ Si es necesario, el administrador podrá entrar al detalle de los acuerdos de ti
 
 ![]({{ site.baseurl }}/assets/images/image45.png)
 
-### Configurando los campos adicionales de un modelo {#configurando-los-campos-adicionales-de-un-modelo}
+### Configurando los campos adicionales de un modelo
 
 Adicionalmente un modelo incluye un conjunto de campos adicionales que corresponden a información para cada una de las órdenes de trabajo creadas.
 
