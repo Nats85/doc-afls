@@ -14,7 +14,7 @@ En la pantalla que presenta el listado de órdenes de trabajo, puede restringir 
 *   **Servicios**. muestra solo las órdenes de trabajo que tengan asociado el servicio que se diligencie en el campo.
 *   **Opciones adicionales:** muestra las órdenes de trabajo según su fecha de programación o vencimiento.
 
-[]({{ site.baseurl }}/assets/images/image238.png)
+![]({{ site.baseurl }}/assets/images/image238.png)
 
 _Zona de filtros en la pantalla de buscador_
 
@@ -27,4 +27,4 @@ En el campo **Ordenar por** en la parte superior de la pantalla, podrá organiza
 *   **Asunto:** organiza las órdenes en orden alfabético según el asunto de la orden.
 
 
-[]({{ site.baseurl }}/assets/images/image239.png)
+![]({{ site.baseurl }}/assets/images/image239.png)
