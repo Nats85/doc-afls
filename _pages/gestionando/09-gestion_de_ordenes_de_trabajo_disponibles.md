@@ -10,7 +10,7 @@ Esta pantalla contiene las órdenes que no tienen ningún proveedor asignado, qu
 Para acceder a esta sección se debe pasar el cursor sobre el ícono **Órdenes** del menú principal y hacer clic en la opción **Disponibles** del submenú desplegado.
 
 
-[]({{ site.baseurl }}/assets/images/image255.png)
+![]({{ site.baseurl }}/assets/images/image255.png)
 
 _Detalle de orden disponible_
 
@@ -30,7 +30,7 @@ Mientras que una orden tomada muestra:
 *   Al rechazar la orden aparecerá un mensaje preguntando si está seguro de esa acción.
 
 
-[]({{ site.baseurl }}/assets/images/image256.png)
+![]({{ site.baseurl }}/assets/images/image256.png)
 
 _Detalle de orden tomada_
 
