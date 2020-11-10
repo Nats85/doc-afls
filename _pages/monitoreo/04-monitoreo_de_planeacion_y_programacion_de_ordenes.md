@@ -5,7 +5,7 @@ chapter: "monitoreo"
 
 En la opción **Planeación** del módulo de **Monitoreo**, el monitor puede emplear el buscador para seleccionar varios especialistas en campo y observar, a través de un diagrama de Gantt, como se distribuyen las órdenes en un día, una semana o un mes. Esta información es particularmente útil para encontrar tiempos ociosos por parte de los especialistas.
 
-[]({{ site.baseurl }}/assets/images/image319.png)
+![]({{ site.baseurl }}/assets/images/image319.png)
 
 ### **Filtrando y ordenando la consulta de planeación** {#filtrando-y-ordenando-la-consulta-de-planeaci-n}
 
@@ -25,7 +25,7 @@ Al seleccionar uno de los especialistas arrojados por la consulta, en el panel d
 En esta pestaña podrá observar la carga que se le ha asignado a cada uno de los especialistas seleccionados. Cada orden contiene información sobre el momento en que el especialista inicia el desplazamiento y el tiempo programado de ejecución y finalización del trabajo. Los espacios en la gráfica donde no existen órdenes programadas se consideran tiempos muertos.
 
 
-[]({{ site.baseurl }}/assets/images/image320.png)
+![]({{ site.baseurl }}/assets/images/image320.png)
 
 *   Los espacios en blanco representan los tiempos en los que el especialista puede atender órdenes de trabajo.
 *   El patrón de rayas representa los tiempos programados donde el especialista debe desplazarse hasta el lugar de la siguiente orden.
@@ -44,13 +44,13 @@ En esta pestaña el usuario podrá visualizar el mapa con la ruta planeada para 
 
 Este mapa ofrece las opciones para expandir y para mostrar la ubicación de la compañía.
 
-[]({{ site.baseurl }}/assets/images/image321.png)
+![]({{ site.baseurl }}/assets/images/image321.png)
 
 **Ruta de distintos especialistas seleccionados**
 
 En el mapa aparecerán las rutas de todos los especialistas que se hayan seleccionado, cada uno con un color diferente.
 
-[]({{ site.baseurl }}/assets/images/image322.png)
+![]({{ site.baseurl }}/assets/images/image322.png)
 
 _Ruta de distintos especialistas seleccionados_
 
@@ -63,6 +63,6 @@ Si los especialistas seleccionados coinciden en una o varias ubicaciones, el usu
 
 Al hacer clic sobre la posición del especialista, el sistema presentará una descripción emergente con algunos datos básicos como el nombre del especialista, la distancia al próximo punto y las órdenes restantes. La distancia al próximo punto se muestra de manera lineal, este valor puede variar si el usuario selecciona la opción de presentar la ruta con la opción de Google.
 
-[]({{ site.baseurl }}/assets/images/image323.png)
+![]({{ site.baseurl }}/assets/images/image323.png)
 
 _Ruta presentada de manera lineal_
