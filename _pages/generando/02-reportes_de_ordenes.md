@@ -5,7 +5,7 @@ chapter: "generando"
 
 Estos reportes tienen una orden asociada y por ende un proveedor asociado. Los monitores solo podrán ver los reportes de los proveedores que tengan asociados.
 
-[]({{ site.baseurl }}/assets/images/image278.png)
+![]({{ site.baseurl }}/assets/images/image278.png)
 
 | **Nota:** si el perfil con el que se inició la sesión es monitor + despachador, se presentará la opción de visualizar todos los proveedores. |
 | --- |
@@ -14,7 +14,7 @@ Estos reportes tienen una orden asociada y por ende un proveedor asociado. Los m
 
 Este reporte presenta al usuario una estadística de las órdenes de trabajo creadas en AFLS. El sistema permite consultar las órdenes de trabajo creadas para un servicio en específico o para todos los servicios dentro de un rango de fechas.
 
-[]({{ site.baseurl }}/assets/images/image279.png)
+![]({{ site.baseurl }}/assets/images/image279.png)
 
 _Selección de servicio (Lista de servicios)_
 
@@ -23,20 +23,20 @@ _Selección de servicio (Lista de servicios)_
 
 Una vez haya seleccionado el servicio y el rango de fechas, haga clic en **Enviar** y se generará un reporte como el siguiente:
 
-[]({{ site.baseurl }}/assets/images/image280.png)
+![]({{ site.baseurl }}/assets/images/image280.png)
 
 _Reporte generado para órdenes creadas_
 
 El reporte incluye también una grilla con los datos más relevantes de las órdenes creadas que coincidan con los servicios y fechas seleccionados.
 
-[]({{ site.baseurl }}/assets/images/image281.png)
+![]({{ site.baseurl }}/assets/images/image281.png)
 _Grilla del reporte generado para órdenes creadas_
 
 ### **Reporte de costos** {#reporte-de-costos}
 
 Este reporte presenta al usuario una estadística del costo de las órdenes de trabajo ejecutadas dentro de un rango de tiempo y permite filtrarlas por servicio y por compañía.
 
-[]({{ site.baseurl }}/assets/images/image282.png)
+![]({{ site.baseurl }}/assets/images/image282.png)
 
 _Selección de compañía (Lista de compañías)_
 
@@ -45,7 +45,7 @@ _Selección de compañía (Lista de compañías)_
 
 Una vez haya seleccionado el rango de fechas, el servicio y la compañía, haga clic en **Enviar** y se generará un reporte como el siguiente:
 
-[]({{ site.baseurl }}/assets/images/image283.png)
+![]({{ site.baseurl }}/assets/images/image283.png)
 
 _Reporte generado para costos de órdenes creadas_
 
@@ -65,7 +65,7 @@ En **costo promedio ejecutado**, hay una gráfica indicando el costo promedio de
 
 La grilla de datos muestra información más detallada de los costos:
 
-[]({{ site.baseurl }}/assets/images/image284.png)
+![]({{ site.baseurl }}/assets/images/image284.png)
 
 _Grilla del reporte generado para costos_
 
@@ -73,13 +73,13 @@ _Grilla del reporte generado para costos_
 
 Este reporte presenta al usuario un resumen del comportamiento de un servicio dentro de AFLS y le permitirá al administrador de la mesa validar si se están cumpliendo las metas propuestas para ese servicio. Aquí el usuario podrá consultar específicamente la tendencia de un servicio en el último año, el último mes o la última semana.
 
-[]({{ site.baseurl }}/assets/images/image285.png)
+![]({{ site.baseurl }}/assets/images/image285.png)
 
 _Selección del periodo de tiempo_
 
 Una vez haya seleccionado el periodo y el servicio, haga clic en **Enviar** y se generará un reporte como el siguiente:
 
-[]({{ site.baseurl }}/assets/images/image286.png)
+![]({{ site.baseurl }}/assets/images/image286.png)
 
 _Reporte generado para tendencia del servicio_
 
@@ -95,7 +95,7 @@ En **tendencia de servicio**, se muestra una gráfica indicando la tendencia en 
 
 Este reporte indica la velocidad a la que se solucionan las órdenes de trabajo. Ayudará al monitor a saber cuáles servicios tardan más tiempo, y posiblemente requieran mayor atención o más personal para dar solución. Aquí el usuario podrá consultar los servicios según el rango de fecha seleccionado.
 
-[]({{ site.baseurl }}/assets/images/image287.png)
+![]({{ site.baseurl }}/assets/images/image287.png)
 
 _Selección de rango de fecha_
 
@@ -104,7 +104,7 @@ _Selección de rango de fecha_
 
 Una vez seleccionado el rango de fechas, haga clic en **Enviar** y se generará un reporte como el siguiente:
 
-[]({{ site.baseurl }}/assets/images/image288.png)
+![]({{ site.baseurl }}/assets/images/image288.png)
 
 _Reporte generado para promedio de tiempo de solución de órdenes_
 
@@ -118,7 +118,7 @@ Este reporte indica el desempeño de los especialistas en un rango de tiempo con
 
 Una vez seleccionado el rango de fechas y el servicio, haga clic en **Enviar** y se generará un reporte como el siguiente:
 
-[]({{ site.baseurl }}/assets/images/image289.png)
+![]({{ site.baseurl }}/assets/images/image289.png)
 
 _Gráfica del reporte de órdenes cerradas_
 
@@ -139,7 +139,7 @@ Este reporte indica la cantidad de casos por servicio que fueron solucionados en
 
 Una vez seleccionado el rango de fechas y el servicio, haga clic en **Enviar** y se generará un reporte como el siguiente:
 
-[]({{ site.baseurl }}/assets/images/image290.png)
+![]({{ site.baseurl }}/assets/images/image290.png)
 _Reporte generado para cumplimiento del SLA_
 
 El reporte muestra dos partes: total de órdenes dentro del SLA y servicios dentro del SLA.
@@ -157,7 +157,7 @@ La grilla de datos generada con el reporte muestra la información detallada de 
 
 Este reporte detalla el nivel de satisfacción de los clientes según una encuesta específica en determinado periodo de tiempo.
 
-[]({{ site.baseurl }}/assets/images/image291.png)
+![]({{ site.baseurl }}/assets/images/image291.png)
 
 _Selección de rango de tiempo y encuesta_
 
@@ -166,7 +166,7 @@ _Selección de rango de tiempo y encuesta_
 
 Una vez seleccionado el rango de fechas y la encuesta, haga clic en **Enviar** y se generará un reporte como el siguiente:
 
-[]({{ site.baseurl }}/assets/images/image292.png)
+![]({{ site.baseurl }}/assets/images/image292.png)
 
 _Reporte generado para cumplimiento del nivel de satisfacción_
 
@@ -181,5 +181,5 @@ En **calificación por pregunta**, se muestra una gráfica mostrando las pregunt
 
 La grilla de datos generada con el reporte muestra la información detallada de cada una de las encuestas contestadas por los clientes.
 
-[]({{ site.baseurl }}/assets/images/image293.png) 
+![]({{ site.baseurl }}/assets/images/image293.png)
 _Grilla del reporte generado para cumplimiento de nivel de satisfacción_
