@@ -5,7 +5,7 @@ chapter: "monitoreo"
 
 La opción **Clientes** en el módulo de **Monitoreo** permite una visión general de la prestación del servicio a los clientes y la cantidad de órdenes asignadas para cada uno de ellos.
 
-[]({{ site.baseurl }}/assets/images/image317.png)
+![]({{ site.baseurl }}/assets/images/image317.png)
 
 Aquí el monitor puede realizar búsquedas básicas o detalladas de clientes sobre el listado de clientes asociados en la aplicación. Puede refinar la búsqueda utilizando los siguientes filtros de consulta:
 
@@ -14,7 +14,7 @@ Aquí el monitor puede realizar búsquedas básicas o detalladas de clientes sob
 *   **Prioridades**: filtra los clientes por la prioridad de las órdenes de trabajo asignadas.
 
 
-[]({{ site.baseurl }}/assets/images/image318.png)
+![]({{ site.baseurl }}/assets/images/image318.png)
 
 _Filtros y visor de cliente filtrado_
 
