@@ -5,7 +5,7 @@ chapter: "configurando"
 
 La gestión completa de una orden de trabajo requiere definir usuarios con roles específicos quienes se encargarán de administrar las diferentes etapas del ciclo de vida de una orden de trabajo. Estos usuarios operan ya sea desde la consola web o desde la aplicación móvil de AFLS.
 
-### Usuarios Web {#usuarios-web}
+### Usuarios Web
 
 Los Usuarios web definidos para la atención oportuna de un servicio son:
 
@@ -22,7 +22,7 @@ La creación de los usuarios con rol **Administrador**, **Monitor**, **Despachad
 
 Los usuarios configurados con el rol de administrador, despachador, monitor y gestor no tendrán habilitada la opción de **Medios de Transporte**; esta solo está disponible para el usuario con rol de especialista en campo. Todos los usuarios definidos para la gestión del servicio quedarán en **estado** “Activo”, para la atención de la orden de trabajo.
 
-### Usuarios Móvil {#usuarios-m-vil}
+### Usuarios Móvil
 
 Para adicionar un usuario web con rol **especialista**, haga clic en el botón **Nuevo** de la categoría **Usuarios Móvil** y llene los campos de la pestaña **Información** al lado derecho de la pantalla.
 
@@ -30,13 +30,13 @@ Para adicionar un usuario web con rol **especialista**, haga clic en el botón *
 
 ![]({{ site.baseurl }}/assets/images/image90.png)
 
-#### Grupos móvil asociados al usuario {#grupos-m-vil-asociados-al-usuario}
+#### Grupos móvil asociados al usuario
 
 Cada usuario con el rol de especialista en campo podrá estar asociado a diferentes grupos según sus características y condiciones para la prestación del servicio.
 
 ![]({{ site.baseurl }}/assets/images/image91.png)
 
-#### Disponibilidad del usuario {#disponibilidad-del-usuario}
+#### Disponibilidad del usuario
 
 En esta pestaña podrá configurar la disponibilidad de tiempo de cada especialista para la atención del servicio.
 
@@ -45,7 +45,7 @@ En esta pestaña podrá configurar la disponibilidad de tiempo de cada especiali
 | **Nota:** Si el usuario se asocia a un grupo móvil que ya tiene una disponibilidad configurada, el usuario la heredará de dicho grupo. La disponibilidad heredada se visualiza de en color gris (ver convenciones). |
 | --- |
 
-#### Habilidades del usuario {#habilidades-del-usuario}
+#### Habilidades del usuario
 
 En esta pestaña se configuran las habilidades específicas para cada especialista en campo.
 
