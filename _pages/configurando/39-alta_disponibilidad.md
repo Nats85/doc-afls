@@ -7,7 +7,7 @@ Con el fin de soportar una operación continua (24/7), AFLS permite emplear un m
 
 Esto se logra de la siguiente forma:
 
-[]({{ site.baseurl }}/assets/images/image199.png)
+![]({{ site.baseurl }}/assets/images/image199.png)
 
 1.  Mediante comunicaciones que llegan desde un ordenador o un móvil, se reciben peticiones hacia los servidores donde está instalado AFLS.
 2.  El balanceador de carga direcciona la petición hacia una instancia de la aplicación que esté en funcionamiento.
