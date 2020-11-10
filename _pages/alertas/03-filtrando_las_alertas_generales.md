@@ -19,4 +19,4 @@ El ciclo de vida de las alertas se mueve a través de tres estados diferentes:
 
 #### Visualización de alertas generales {#visualizaci-n-de-alertas-generales}
 
-[]({{ site.baseurl }}/assets/images/image330.png)
+![]({{ site.baseurl }}/assets/images/image330.png)
