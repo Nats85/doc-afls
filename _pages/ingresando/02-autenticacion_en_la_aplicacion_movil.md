@@ -7,14 +7,14 @@ Para ingresar a la consola móvil, el especialista debe abrir la aplicación Ara
 
 ![]({{ site.baseurl }}/assets/images/image331.png)
 
-### **Autenticación con código QR** {#autenticaci-n-con-c-digo-qr}
+### **Autenticación con código QR**
 
 Al licenciar a un especialista, este recibe un email con los datos de la URL, el dominio y el usuario y un código QR pada escanear
 
 ![]({{ site.baseurl }}/assets/images/image332.png)
 
 
-### **Autenticación inicial** {#autenticaci-n-inicial}
+### **Autenticación inicial**
 
 Si es la primera vez que el especialista ingresa a la aplicación móvil de AFLS, es necesario completar la siguiente información:
 
@@ -23,7 +23,7 @@ Si es la primera vez que el especialista ingresa a la aplicación móvil de AFLS
 *   Nombre de usuario
 *   Contraseña
 
-### **Autenticación frecuente** {#autenticaci-n-frecuente}
+### **Autenticación frecuente**
 
 Si el especialista ha ingresado anteriormente a la aplicación móvil de AFLS, el sistema no le solicitará de nuevo los datos de ingreso, ya que no se cierra la sesión.
 
