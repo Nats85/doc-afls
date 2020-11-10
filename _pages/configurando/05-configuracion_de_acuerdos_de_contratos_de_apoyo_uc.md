@@ -13,12 +13,12 @@ Para crear nuevos UC haga clic en el botón **Nuevo** e ingrese la siguiente inf
 
 ![]({{ site.baseurl }}/assets/images/image28.png)
 
-### **Detalle del UC** {#detalle-del-uc}
+### **Detalle del UC**
 
 *   **Nombre del UC:** Nombre que se le dará al acuerdo.
 *   **Descripción:** Texto claro y explicativo del acuerdo UC.
 
-### **Duración del UC** {#duraci-n-del-uc}
+### **Duración del UC**
 
 *   **Fecha de inicio:** permite establecer la fecha de inicio del UC.
 *   **Fecha de finalización:** permite establecer la fecha de finalización del UC, al ingresar una fecha en este campo se habilita el campo Alarma para la fecha de finalización.
@@ -29,7 +29,7 @@ Para crear nuevos UC haga clic en el botón **Nuevo** e ingrese la siguiente inf
 | **Nota**: El usuario puede habilitar el envío enviar alarma cuando se acerque la fecha de revisión o la fecha de finalización del UC, esto hará que se le envíe a los administradores una notificación con la información correspondiente. |
 | --- |
 
-### **Acuerdos de tiempos** {#acuerdos-de-tiempos}
+### **Acuerdos de tiempos**
 
 En esta pestaña se muestra un buscador que funciona con la característica de autocompletar y lista los cronómetros que existan en AFLS, al seleccionar alguno de los cronómetros este se muestra con los respectivos campos para ingresar las horas, los minutos y el porcentaje de cumplimiento que debe tener dicho cronómetro para el UC. Todos los UC deben tener solo un cronómetro marcado como principal y es el que se va a visualizar en la orden de trabajo.
 
@@ -42,7 +42,7 @@ En esta pestaña se muestra un buscador que funciona con la característica de a
 ![]({{ site.baseurl }}/assets/images/image30.png)
 
 
-### **Archivos adjuntos** {#archivos-adjuntos}
+### **Archivos adjuntos**
 
 En esta pestaña puede adjuntar archivos del UC, siempre que no excedan el peso de 10 MB.
 
