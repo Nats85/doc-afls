@@ -15,7 +15,7 @@ Una vez habilitada la edición, el sistema presentará un mensaje de confirmaci�
 
 Luego de confirmar que desea continuar, en el módulo de **Ajustes Globales** podrá acceder a las siguientes dos pestañas disponibles:
 
-### **Pestaña Ajustes Globales** {#pesta-a-ajustes-globales}
+### **Pestaña Ajustes Globales**
 
 En esta pestaña el usuario administrador puede personalizar cuatro parámetros de operación; la configuración de estos parámetros afecta directamente la operación y el desempeño de la herramienta.
 
@@ -64,7 +64,7 @@ Si escogió la integración directa, es necesario diligenciar los siguientes cam
 ![]({{ site.baseurl }}/assets/images/image12.png)
 
 
-### **Pestaña Configuración de Mapas** {#pesta-a-configuraci-n-de-mapas}
+### **Pestaña Configuración de Mapas**
 
 En esta pestaña el administrador puede cambiar el proveedor de servicio para los mapas en la aplicación web, AssistMe y la aplicación móvil. Las opciones que se ofrecen dentro de la aplicación son:
 
@@ -84,7 +84,7 @@ Al hacer un cambio de proveedor se pueden habilitar nuevos campos que varían de
 | **Nota**: Luego de hacer el cambio de proveedor de mapas y guardar, es necesario que los usuarios inicien sesión nuevamente para visualizar el cambio en las aplicaciones web, móvil y AssistMe. |
 | --- |
 
-### **Importación GeoJSON** {#importaci-n-geojson}
+### **Importación GeoJSON**
 
 En esta sección se configuran los atributos que se usarán del archivo GeoJson, cuando se importan localizaciones de la funcionalidad Capa Mapas.
 
