@@ -7,7 +7,7 @@ Los filtros para facilitar la búsqueda de alertas de proveedores generadas son 
 
 **Proveedor**: el monitor solo podrá visualizar los proveedores que tiene asignados, por lo tanto, podrá filtrar las alertas solo por dichos proveedores desde el selector. Cuando se ingresa con un perfil de usuario Despachador + Monitor el selector contará con la opción de Todos los proveedores.
 
-### **Tipos de Alerta:** {#tipos-de-alerta}
+### **Tipos de Alerta:**
 
 *   **Asignación:** son las alertas creadas por el motor de asignación cuando no es posible encontrar las personas idóneas para ejecutar una orden de trabajo. Dentro de esta categoría se encuentra la alerta de orden no asignada.
 *   **Cumplimiento:** son todas aquellas alertas generadas por la operación cuando se incumplen las citas o los acuerdos de nivel de servicio de las órdenes de trabajo. Dentro de esta categoría se encuentran:
@@ -66,7 +66,7 @@ El ciclo de vida de las alertas se mueve a través de tres estados diferentes:
 *   **Revisada**: alertas que requieren algún tipo de acción por parte de los usuarios o los monitores.
 *   **Cerrada**: alertas validadas que no importan o que ya fueron revisadas en la operación.
 
-#### Visualización de alertas de proveedores {#visualizaci-n-de-alertas-de-proveedores}
+#### Visualización de alertas de proveedores
 
 ![]({{ site.baseurl }}/assets/images/image329.png)
 
