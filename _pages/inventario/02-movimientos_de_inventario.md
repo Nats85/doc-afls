@@ -5,7 +5,7 @@ chapter: "inventario"
 
 En este módulo puede gestionar el inventario ejecutando entradas, salidas y transferencias de productos ya configurados desde la administración de AFLS. De igual manera puede hacer una importación de entradas y salidas por medio de un archivo **.csv**.
 
-[]({{ site.baseurl }}/assets/images/image257.png)
+![]({{ site.baseurl }}/assets/images/image257.png)
 
 _Opción de ingreso a Movimientos_
 
@@ -28,7 +28,7 @@ Diligencie los siguientes campos:
 *   **Descripción del movimiento**: información adicional relevante para la entrada de inventario
 
 
-[]({{ site.baseurl }}/assets/images/image258.png)
+![]({{ site.baseurl }}/assets/images/image258.png)
 
 _Pantalla para ingresar la información básica de la entrada_
 
@@ -40,7 +40,7 @@ Si se trata de un producto tipo cantidad deberá ingresar la siguiente informaci
 *   **Valor por unidad:** valor de compra del producto por unidad
 *   **Ubicación:** lugar a donde se realiza la entrada del producto
 
-[]({{ site.baseurl }}/assets/images/image259.png)
+![]({{ site.baseurl }}/assets/images/image259.png)
 
 _Pantalla para ingresar la información de un producto tipo cantidad_
 
@@ -50,7 +50,7 @@ Si se trata de un producto tipo único deberá ingresar la siguiente informació
 *   **Valor por unidad:** valor de compra del producto por unidad
 *   **Ubicación:** lugar a donde se realiza la entrada del producto
 
-[]({{ site.baseurl }}/assets/images/image260.png)
+![]({{ site.baseurl }}/assets/images/image260.png)
 
 _Pantalla para ingresar la información de un producto tipo único_
 
@@ -72,7 +72,7 @@ Diligencie los siguientes campos:
 *   **Descripción del movimiento**: información adicional relevante para la salida de inventario
 *   **Relacionar orden de trabajo:** campo para relacionar una orden de trabajo si es necesario. Las órdenes deben estar en estado **Ejecutado**.
 
-[]({{ site.baseurl }}/assets/images/image261.png)
+![]({{ site.baseurl }}/assets/images/image261.png)
 
 _Pantalla para ingresar la información básica de la salida_
 
@@ -88,7 +88,7 @@ Si se trata de un producto tipo único deberá ingresar la siguiente informació
 *   **Número de serie:** identificador único del producto
 *   **Ubicación:** lugar de donde se realiza la salida del producto
 
-[]({{ site.baseurl }}/assets/images/image262.png)
+![]({{ site.baseurl }}/assets/images/image262.png)
 
 _Pantalla para ingresar la información de un producto tipo cantidad_
 
@@ -117,7 +117,7 @@ Si se trata de un producto tipo cantidad deberá ingresar la siguiente informaci
 *   **Ubicación de destino:** lugar a donde se hará la entrada del producto
 
 
-[]({{ site.baseurl }}/assets/images/image263.png)
+![]({{ site.baseurl }}/assets/images/image263.png)
 
 _Pantalla para ingresar la información de transferencia de un producto tipo cantidad_
 
@@ -127,7 +127,7 @@ Si se trata de un producto tipo único deberá ingresar la siguiente informació
 *   **Ubicación de origen:** lugar de donde saldrá el producto
 *   **Ubicación de destino:** lugar a donde se hará la entrada del producto
 
-[]({{ site.baseurl }}/assets/images/image264.png)
+![]({{ site.baseurl }}/assets/images/image264.png)
 
 _Pantalla para ingresar la información de transferencia de un producto tipo único_
 
@@ -137,7 +137,7 @@ Un usuario con rol de gestor de inventario puede importar movimientos desde un a
 
 Para importar movimientos de inventario, seleccione la opción **Importación de movimientos**, aparecerá un buscador que le permitirá seleccionar el archivo de los movimientos a importar, y un enlace con el cual podrá descargar una plantilla modelo del archivo para realizar la importación.
 
-[]({{ site.baseurl }}/assets/images/image265.png)
+![]({{ site.baseurl }}/assets/images/image265.png)
 
 La siguiente es la estructura definida para la importación de movimientos.
 
@@ -157,28 +157,28 @@ La siguiente es la estructura definida para la importación de movimientos.
 
 Una vez cargado el archivo correctamente configurado, haga clic en el botón **Importar**. El sistema procesará el archivo y al terminar, presentará un mensaje de confirmación, indicando los movimientos que se importaron.
 
-[]({{ site.baseurl }}/assets/images/image266.png)
+![]({{ site.baseurl }}/assets/images/image266.png)
 _Mensaje de importación exitosa de movimientos_
 
 Si el archivo de movimientos a importar contiene uno o más registros configurados de manera errónea, en la ventana de finalización del proceso de carga, aparecerá la cantidad de registros no importados y un nuevo botón: **Ver archivo de errores** que le permitirá descargar un archivo **.csv** que contiene los registros que no se importaron.
 
-[]({{ site.baseurl }}/assets/images/image267.png)
+![]({{ site.baseurl }}/assets/images/image267.png)
 
 _Mensaje de importación de movimientos NO exitosa_
 
 Al oprimir el botón, se mostrará una ventana del explorador de Windows para que el usuario seleccione la ubicación en la que desea guardar el archivo.
 
-[]({{ site.baseurl }}/assets/images/image268.png)
+![]({{ site.baseurl }}/assets/images/image268.png)
 
 _Archivo con los movimientos que no se importaron._
 
 Al abrir el archivo, se observan los registros que se procesaron y al final de la línea de aquellos que fallaron, se mostrará la razón por la que fallaron.
 
 
-[]({{ site.baseurl }}/assets/images/image269.png)
+![]({{ site.baseurl }}/assets/images/image269.png)
 _Mensaje de validación dentro del archivo._
 
 ### **Filtro de búsqueda de inventario** {#filtro-de-b-squeda-de-inventario}
 
 Este filtro permite a un usuario con rol de gestor de inventario visualizar los movimientos de inventario según su fecha inicial, fecha final y tipo de movimiento.
-[]({{ site.baseurl }}/assets/images/image270.png)
+![]({{ site.baseurl }}/assets/images/image270.png)
