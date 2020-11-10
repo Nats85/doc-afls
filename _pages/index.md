@@ -5,6 +5,7 @@ permalink: /
 
 # ¿Qué es Aranda FIELD SERVICE?
 
+
 Aranda FIELD SERVICE (AFLS) es una herramienta para la gestión y solución de órdenes de trabajo, que facilita la operación de un servicio, logrando optimizar los procesos de asignación automática o asistida para el cumplimiento y atención efectiva del servicio en campo.
 
 Con AFLS, una empresa que presta servicios en campo puede ofrecer un servicio de calidad a sus clientes en tres sencillas etapas: i) asignación de pedidos y programación de actividades y recursos para una atención oportuna; ii) seguimiento coordinado a las actividades asignadas y a los desplazamientos efectuados para el cumplimiento del servicio; y iii) atención en campo a la solicitud del cliente en los tiempos acordados con la solución oportuna del personal calificado.
