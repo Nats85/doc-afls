@@ -24,7 +24,7 @@ En la pestaña **Unificación de campos**, se configuran los campos necesarios p
 
 _Pestaña para configurar el mapeo de campos con el directorio empresarial_
 
-### **Importando usuarios de LDAP como usuarios web en AFLS** {#importando-usuarios-de-ldap-como-usuarios-web-en-afls}
+### **Importando usuarios de LDAP como usuarios web en AFLS**
 
 Una vez configurada la integración del directorio empresarial y sincronizada la información con la base de datos de AFLS, el sistema le permitirá importar usuarios a la aplicación. Ingrese a **Administración** **&gt; Usuarios &gt; Usuarios Web**, luego haga clic en el menú desplegable al lado del botón **Nuevo** y allí se presentará la opción **Importar usuarios LDAP**, en este caso, usuarios Web.
 
@@ -58,7 +58,7 @@ Los usuarios que se encuentren en la zona de usuarios asociados se importarán a
 
 Luego de hacer clic en **Importar**, el sistema mostrará un mensaje de éxito de la importación.
 
-### **Importando usuarios de LDAP como Usuarios Móvil en AFLS** {#importando-usuarios-de-ldap-como-usuarios-m-vil-en-afls}
+### **Importando usuarios de LDAP como Usuarios Móvil en AFLS**
 
 AFLS también permite crear usuarios móviles importándolos desde el directorio empresarial. Una vez configurada la integración del directorio empresarial y sincronizada la información con la base de datos de AFLS, ingrese a **Administración** **&gt; Usuarios &gt; Usuarios Móvil**, luego haga clic en el menú desplegable al lado del botón **Nuevo**, allí encontrará la opción **Importar usuarios LDAP**, en este caso, usuarios Móvil.
 
@@ -84,7 +84,7 @@ _Usuarios importados_
 
 Al igual que en la creación de usuarios móviles, los usuarios LDAP que se importan toman la configuración existente, es decir, toman la disponibilidad, habilidades, grupos móviles asociados, cargo de especialista y medio de transporte que ya están configurados para los usuarios móvil.
 
-### **Importando Grupos de LDAP como Grupos Web en AFLS** {#importando-grupos-de-ldap-como-grupos-web-en-afls}
+### **Importando Grupos de LDAP como Grupos Web en AFLS**
 
 Una vez configurada la integración del directorio empresarial y sincronizada la información con la base de datos de AFLS, el sistema le permitirá importar grupos a la aplicación.
 
@@ -131,7 +131,7 @@ _Usuarios importados como usuarios web con rol definido que estaban incluidos en
 | **Nota**: Si se remueve un usuario de la lista de usuarios a importar, el sistema no lo tendrá en cuenta para importarlo a AFLS. Si uno de los usuarios relacionados al grupo ya ha sido previamente importado, este se relacionará al grupo correspondiente al momento de importarlo. |
 | --- |
 
-### **Importando Grupos de LDAP como Grupos Móvil en AFLS** {#importando-grupos-de-ldap-como-grupos-m-vil-en-afls}
+### **Importando Grupos de LDAP como Grupos Móvil en AFLS** 
 
 Una vez configurada la integración del directorio empresarial y sincronizada la información con la base de datos de AFLS, el sistema le permitirá importar grupos a la aplicación.
 
