@@ -18,7 +18,7 @@ Existen dos tipos de búsqueda:
 *   Ubicación:permite validar las existencias de una ubicación.
 
 
-[]({{ site.baseurl }}/assets/images/image271.png)
+![]({{ site.baseurl }}/assets/images/image271.png)
 _Pantalla de búsqueda de inventario_
 
 | **Nota:** ninguno de los campos de búsqueda es obligatorio. Es posible hacer búsquedas en todas las ubicaciones al mismo tiempo. |
