@@ -13,12 +13,12 @@ Para crear nuevos OLA se debe hacer clic en el botón **Nuevo** e ingresar la si
 
 ![]({{ site.baseurl }}/assets/images/image24.png)
 
-### **Detalle del OLA** {#detalle-del-ola}
+### **Detalle del OLA**
 
 *   **Nombre del OLA:** Nombre que se le dará al acuerdo.
 *   **Descripción:** Texto claro y explicativo del acuerdo OLA.
 
-### **Duración del OLA** {#duraci-n-del-ola}
+### **Duración del OLA**
 
 *   **Fecha de inicio:** Permite establecer la fecha de inicio del OLA.
 *   **Fecha de finalización:** Permite establecer la fecha de finalización del OLA, al ingresar una fecha en este campo se habilita el campo Alarma para la fecha de finalización.
@@ -29,7 +29,7 @@ Para crear nuevos OLA se debe hacer clic en el botón **Nuevo** e ingresar la si
 | **Nota**: El usuario puede habilitar el envío de una alarma cuando se acerque la fecha de revisión o la fecha de finalización del OLA, esto hará que se le envíe a los administradores una notificación con la información correspondiente. |
 | --- |
 
-### **Acuerdos de tiempos** {#acuerdos-de-tiempos}
+### **Acuerdos de tiempos**
 
 En esta pestaña se muestra un buscador que funciona con la característica de autocompletar y lista los cronómetros que existan en AFLS, al seleccionar uno de los cronómetros este se muestra con los respectivos campos para ingresar las horas, los minutos y el porcentaje de cumplimiento que debe tener dicho cronómetro para el OLA. Todos los OLA deben tener solo un cronómetro marcado como principal y es el que se va a visualizar en la orden de trabajo.
 
@@ -40,7 +40,7 @@ En esta pestaña se muestra un buscador que funciona con la característica de a
 
 ![]({{ site.baseurl }}/assets/images/image26.png)
 
-### **Archivos adjuntos** {#archivos-adjuntos}
+### **Archivos adjuntos**
 
 En esta pestaña puede adjuntar archivos del OLA, siempre que no excedan el peso de 10 MB.
 
