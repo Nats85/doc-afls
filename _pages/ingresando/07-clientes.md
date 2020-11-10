@@ -5,7 +5,7 @@ chapter: "ingresando"
 
 En la sección de clientes los especialistas en campo podrán actualizar la información básica de los clientes (correo electrónico, teléfono, dirección)
 
-[]({{ site.baseurl }}/assets/images/image344.png)
+![]({{ site.baseurl }}/assets/images/image344.png)
 _Actualización de cliente_
 
 | **Nota**: El nombre y código único del cliente solo se pueden actualizar desde la Consola Web. |
