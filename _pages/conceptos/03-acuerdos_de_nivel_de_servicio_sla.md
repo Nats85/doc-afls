@@ -15,12 +15,12 @@ Aranda FIELD SERVICE tiene tres cronómetros configurados dentro de los flujos d
 
 **Ejemplo:** En una orden de trabajo de instalar un servicio de televisión satelital, el tiempo máximo de atención programado es de 2 días, que van desde el momento de creación de la orden hasta la llegada del especialista en campo para la atención del servicio; este tiempo incluye actividades relacionadas con los desplazamientos para la atención de órdenes de trabajo asignadas y programadas con anterioridad en la agenda del especialista asignado.
 
-1.  **_Tiempo de solución_:** Tiempo estimado en el que el especialista en campo da solución completa al servicio solicitado, confirmando el cierre de la orden de trabajo asignada. El tiempo de solución incluye los tiempos de atención y los tiempos de ejecución definidos.
+2.  **_Tiempo de solución_:** Tiempo estimado en el que el especialista en campo da solución completa al servicio solicitado, confirmando el cierre de la orden de trabajo asignada. El tiempo de solución incluye los tiempos de atención y los tiempos de ejecución definidos.
 
 El tiempo de solución incluye los desplazamientos del especialista en campo, la revisión inicial del problema, la consecución de los repuestos y la ejecución del servicio.
 
 **Ejemplo:** En una orden de trabajo de instalar un servicio de televisión satelital, el tiempo máximo de solución programado para la atención del servicio, serían será de 3 días, en el que el especialista en campo podrá realizar actividades relacionadas con los desplazamientos para la atención de órdenes de trabajo asignadas, tareas como instalación de la antena, configuración del paquete de canales e instalación de los repuestos requeridos y del servicio en general.
 
-1.  **_Tiempo de ejecución_:** Tiempo destinado por el especialista en campo para realizar actividades específicas de un servicio asignado. Este tiempo sólo incluye la ejecución del servicio.
+3.  **_Tiempo de ejecución_:** Tiempo destinado por el especialista en campo para realizar actividades específicas de un servicio asignado. Este tiempo sólo incluye la ejecución del servicio.
 
 **Ejemplo:** En una orden de trabajo de instalar un servicio de televisión satelital, el tiempo de ejecución programado es de 4 horas, durante las cuales el especialista en campo realizará tareas como instalar la antena, configurar el paquete de canales, instalar y adecuar los repuestos solicitados para el funcionamiento del servicio.
