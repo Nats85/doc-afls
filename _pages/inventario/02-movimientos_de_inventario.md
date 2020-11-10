@@ -9,11 +9,11 @@ En este módulo puede gestionar el inventario ejecutando entradas, salidas y tra
 
 _Opción de ingreso a Movimientos_
 
-### **Entrada de producto** {#entrada-de-producto}
+### **Entrada de producto**
 
 Un usuario con el rol de gestor de inventarios podrá crear un movimiento de entrada en la pantalla de gestión de inventarios. Una entrada corresponde a la llegada de un nuevo elemento a una ubicación de inventario. Para crear una entrada, seleccione la opción **Nueva Entrada** de la categoría **Movimientos** y defina lo siguiente:
 
-#### Información entrada {#informaci-n-entrada}
+#### Información entrada
 
 Esta sección tiene precargados los siguientes campos:
 
@@ -32,7 +32,7 @@ Diligencie los siguientes campos:
 
 _Pantalla para ingresar la información básica de la entrada_
 
-#### Detalle del producto {#detalle-del-producto}
+#### Detalle del producto
 
 Si se trata de un producto tipo cantidad deberá ingresar la siguiente información:
 
@@ -54,11 +54,11 @@ Si se trata de un producto tipo único deberá ingresar la siguiente informació
 
 _Pantalla para ingresar la información de un producto tipo único_
 
-### **Salida de producto** {#salida-de-producto}
+### **Salida de producto**
 
 En la pantalla de gestión de inventarios, un usuario con el rol de gestor de inventarios podrá crear un movimiento de salida (o baja) de un elemento de una ubicación de inventario. Para crear una salida, seleccione la opción **Nueva Salida** de la categoría **Movimientos** y defina lo siguiente:
 
-#### Información salida {#informaci-n-salida}
+#### Información salida
 
 Esta sección tiene precargados los siguientes campos:
 
@@ -76,7 +76,7 @@ Diligencie los siguientes campos:
 
 _Pantalla para ingresar la información básica de la salida_
 
-#### Detalle del producto {#detalle-del-producto-0}
+#### Detalle del producto
 
 Si se trata de un producto tipo cantidad deberá ingresar la siguiente información:
 
@@ -92,11 +92,11 @@ Si se trata de un producto tipo único deberá ingresar la siguiente informació
 
 _Pantalla para ingresar la información de un producto tipo cantidad_
 
-### **Transferencia de producto** {#transferencia-de-producto}
+### **Transferencia de producto**
 
 Un usuario con el rol de gestor de inventario puede crear un movimiento de transferencia en la pantalla de gestión de inventarios. Una transferencia corresponde al traslado de un producto de una ubicación a otra. Para crear una transferencia, seleccione la opción **Nueva Transferencia** de la categoría **Movimientos** y defina lo siguiente:
 
-#### Información de transferencia {#informaci-n-de-transferencia}
+#### Información de transferencia
 
 Esta sección tiene precargados los siguientes campos:
 
@@ -108,7 +108,7 @@ Diligencie los siguientes campos:
 *   **Número de factura o referencia**
 *   **Descripción del movimiento**
 
-#### Transferir producto {#transferir-producto}
+#### Transferir producto
 
 Si se trata de un producto tipo cantidad deberá ingresar la siguiente información:
 
@@ -131,7 +131,7 @@ Si se trata de un producto tipo único deberá ingresar la siguiente informació
 
 _Pantalla para ingresar la información de transferencia de un producto tipo único_
 
-### **Importación de movimientos** {#importaci-n-de-movimientos}
+### **Importación de movimientos**
 
 Un usuario con rol de gestor de inventario puede importar movimientos desde un archivo **.csv**, (valores separados por comas) con el cual puede crear entradas y salidas de inventario.
 
@@ -178,7 +178,7 @@ Al abrir el archivo, se observan los registros que se procesaron y al final de l
 ![]({{ site.baseurl }}/assets/images/image269.png)
 _Mensaje de validación dentro del archivo._
 
-### **Filtro de búsqueda de inventario** {#filtro-de-b-squeda-de-inventario}
+### **Filtro de búsqueda de inventario**
 
 Este filtro permite a un usuario con rol de gestor de inventario visualizar los movimientos de inventario según su fecha inicial, fecha final y tipo de movimiento.
 ![]({{ site.baseurl }}/assets/images/image270.png)
