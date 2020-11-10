@@ -33,7 +33,7 @@ Los filtros para facilitar la búsqueda de alertas de proveedores generadas son 
 
 Cuando un especialista en campo solicita más tiempo para atender la orden, el monitor es responsable de aceptar o rechazar la petición.
 
-[]({{ site.baseurl }}/assets/images/image327.png)
+![]({{ site.baseurl }}/assets/images/image327.png)
 
 _Alerta de solicitud de tiempo_
 
@@ -43,7 +43,7 @@ Al seleccionar la notificación y presionar el botón **Aprobar**, la herramient
 *   Número de órdenes por reasignar.
 *   Ordenes de trabajo próximas a vencer.
 
-[]({{ site.baseurl }}/assets/images/image328.png)
+![]({{ site.baseurl }}/assets/images/image328.png)
 
 _Pantalla al seleccionar Aprobar_
 
@@ -68,7 +68,7 @@ El ciclo de vida de las alertas se mueve a través de tres estados diferentes:
 
 #### Visualización de alertas de proveedores {#visualizaci-n-de-alertas-de-proveedores}
 
-[]({{ site.baseurl }}/assets/images/image329.png)
+![]({{ site.baseurl }}/assets/images/image329.png)
 
 Cada alerta incluye información relevante de la operación. En el detalle de la alerta es posible cambiar el estado adicionando un mensaje.
 
