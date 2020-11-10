@@ -3,7 +3,7 @@ title: Configuración de las reglas de negocio
 chapter: "configurando"
 ---
 
-### **Variables del Negocio** {#variables-del-negocio}
+### **Variables del Negocio**
 
 El motor de Field Service es personalizable y permite direccionar la asignación de las órdenes para poder cumplir con los objetivos de reducir costos, minimizar los desplazamientos, maximizar la calidad y garantizar el cumplimiento de los tiempos de atención pactados.
 
@@ -30,7 +30,7 @@ Aquí puede limitar la cantidad de procesos que el motor puede trabajar al tiemp
 
 También puede limitar el uso máximo de CPU, con el fin de evitar que los procesos que utilizan el motor consuman toda la capacidad cuando el servidor esté dedicado a varias tareas.
 
-### **Proveedores** {#proveedores}
+### **Proveedores**
 
 En esta pestaña se configuran las reglas que definen el orden para elegir un proveedor. Las opciones son:
 
