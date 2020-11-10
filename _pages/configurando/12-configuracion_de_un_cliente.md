@@ -13,7 +13,7 @@ En la pestaña **Servicios** puede asociar y activar cualquiera de los servicios
 
 ![]({{ site.baseurl }}/assets/images/image64.png)
 
-### **Firma del cliente** {#firma-del-cliente}
+### **Firma del cliente**
 
 En esta pestaña podrá cargar el archivo que contiene la firma del cliente que se utilizará para ser validada con la orden de trabajo cerrada.
 
@@ -21,7 +21,7 @@ En esta pestaña podrá cargar el archivo que contiene la firma del cliente que 
 ![]({{ site.baseurl }}/assets/images/image65.png)
 
 
-### **Campos Adicionales del cliente** {#campos-adicionales-del-cliente}
+### **Campos Adicionales del cliente**
 
 Corresponden a los campos adicionales que se hayan configurado en el módulo de configuración para clientes y están habilitados para poder ser utilizados al momento de crear el cliente.
 
