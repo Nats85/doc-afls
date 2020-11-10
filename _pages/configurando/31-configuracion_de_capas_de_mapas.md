@@ -35,7 +35,7 @@ Seleccione alguno de los iconos predefinidos o agregue una URL remota que conduz
 ![]({{ site.baseurl }}/assets/images/image144.png)
 
 
-### **Adicionar Localización** {#adicionar-localizaci-n}
+### **Adicionar Localización**
 
 En la pestaña **Adicionar Localización** puede visualizar los puntos o localizaciones agregados a la capa. Al situar el cursor sobre cada punto de localización marcado en el mapa, se despliega un mensaje mostrando el nombre, la descripción, las coordenadas (longitud, latitud) y el estado actual.
 
@@ -53,7 +53,7 @@ Al hacer clic en el botón **Editar**, se desplegará una ventana emergente con 
 
 Puede agregar una localización haciendo clic sobre el punto requerido en el mapa, o usando la barra de búsqueda en la parte superior izquierda para ingresar una dirección o nombre de lugar para referenciarlo como una nueva localización de la capa.
 
-### **Agregar localización manualmente a través del mapa** {#agregar-localizaci-n-manualmente-a-trav-s-del-mapa}
+### **Agregar localización manualmente a través del mapa**
 
 Haga clic sobre el punto del mapa que requiere georeferenciar como nueva localización de la capa. Se desplegará un recuadro solicitando la información necesaria.
 
@@ -73,7 +73,7 @@ Haga clic en el botón **Guardar** para conservar los cambios. Si la localizaci�
 ![]({{ site.baseurl }}/assets/images/image148.png)
 
 
-### **Agregar localización a través del buscador de direcciones** {#agregar-localizaci-n-a-trav-s-del-buscador-de-direcciones}
+### **Agregar localización a través del buscador de direcciones**
 
 Ingrese la dirección o nombre de la localización en el buscador y haga clic en la lupa. Es sistema realizará un geocodificación a través del proveedor de mapas configurado y mostrará el punto en la longitud y latitud obtenida.
 
@@ -94,7 +94,7 @@ Tenga en cuenta que:
 *   El campo **Descripción** es opcional.
 *   El punto debe estar en estado activo para que se pueda visualizar en la interfaz web o móvil
 
-### **Agregar localización por medio de importación GeoJSON** {#agregar-localizaci-n-por-medio-de-importaci-n-geojson}
+### **Agregar localización por medio de importación GeoJSON**
 
 Una vez configurados los atributos de importación GeoJSON en los ajustes globales, Aranda FIELD SERVICE podrá importar localizaciones masivamente a una capa bajo el sistema de referencias de coordenadas geográficas World Geodetic Sistem 1984 y unidades de grados decimales.
 
@@ -121,7 +121,7 @@ A partir de este resultado verifique los atributos del archivo GeoJSON a importa
 
 Una vez depurados los puntos, haga clic en el botón **Importar** para completar el proceso.
 
-### **Visualización de capas y localizaciones** {#visualizaci-n-de-capas-y-localizaciones}
+### **Visualización de capas y localizaciones** 
 
 Para visualizar las capas creadas y activas dentro de Aranda FIELD SERVICE en los mapas de las interfaces web y móvil, diríjase al recuadro en la esquina superior izquierda del mapa y seleccione la capa requerida
 
