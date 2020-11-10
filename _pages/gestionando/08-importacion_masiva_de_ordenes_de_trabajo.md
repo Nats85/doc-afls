@@ -7,13 +7,13 @@ El despachador puede cargar masivamente órdenes de trabajo desde un archivo **.
 
 Para importar órdenes masivamente, ingrese por **Órdenes**, y haga clic en el ícono **Importar** que seencuentra al lado del botón **Nueva**:
 
-[]({{ site.baseurl }}/assets/images/image247.png)
+![]({{ site.baseurl }}/assets/images/image247.png)
 
 _Opción de importación masiva de órdenes_
 
 Aparecerá un buscador que le permitirá seleccionar el archivo de las órdenes a importar, y un enlace con el cual podrá descargar una plantilla modelo del archivo para realizar satisfactoriamente la importación de órdenes.
 
-[]({{ site.baseurl }}/assets/images/image248.png)
+![]({{ site.baseurl }}/assets/images/image248.png)
 
 _Archivo de órdenes a importar seleccionado_
 
@@ -44,31 +44,31 @@ Campos Workorder_Template.csv
 
 Una vez seleccionado el archivo correctamente configurado, haga clic en **Importar** y el sistema procesará el archivo. Al terminar el proceso, se presentará un mensaje de confirmación, indicando el número las órdenes de trabajo que se importaron.
 
-[]({{ site.baseurl }}/assets/images/image249.png)
+![]({{ site.baseurl }}/assets/images/image249.png)
 
 _Mensaje importación de órdenes exitosa_
 
 Cuando una orden se importa correctamente, en la información detallada de esa orden aparecerá un comentario en la pestaña **Comentarios** indicando que es una orden importada.
 
-[]({{ site.baseurl }}/assets/images/image250.png)
+![]({{ site.baseurl }}/assets/images/image250.png)
 
 _Comentario generado en la orden cuando es importada._
 
 Si el archivo de órdenes a importar contiene uno o más registros configurados de manera errónea, aparecerá un mensaje con la cantidad de registros no importados y la opción de descargar un archivo **.csv** que contiene los registros que no se importaron.
 
-[]({{ site.baseurl }}/assets/images/image251.png)
+![]({{ site.baseurl }}/assets/images/image251.png)
 
 _Mensaje de importación de órdenes NO exitosa_
 
 Al oprimir el botón **Descargar**, se mostrará una ventana del explorador de Windows para que el usuario seleccione la ubicación en la que desea guardar el archivo.
 
-[]({{ site.baseurl }}/assets/images/image252.png)
+![]({{ site.baseurl }}/assets/images/image252.png)
 
 _Archivo con las órdenes fallidas_
 
 Al abrir el archivo, se observarán los registros que se procesaron y al final de la línea de aquellos que fallaron, se mostrará la razón por la que fallaron.
 
-[]({{ site.baseurl }}/assets/images/image253.png)
+![]({{ site.baseurl }}/assets/images/image253.png)
 
 _Mensaje de validación dentro del archivo_
 
