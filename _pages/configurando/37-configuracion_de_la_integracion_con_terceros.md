@@ -7,7 +7,7 @@ AFLS puede integrarse con el sistema que el cliente desee, siempre que se haga u
 
 Para que AFLS pueda sincronizar información con otro sistema, se deben configurar los parámetros en el módulo **Integración &gt;** **Otras aplicaciones** en la pestaña **Sincronización de información**.
 
-[]({{ site.baseurl }}/assets/images/image189.png)
+![]({{ site.baseurl }}/assets/images/image189.png)
 
 _Ejemplo de configuración de integración con terceros_
 
@@ -31,7 +31,7 @@ AFLS ejecuta una sincronización de las compañías que se encuentran en otros s
 *   **Email de contacto**
 *   **Dirección:** estandarizada por el control de búsqueda de direcciones de Google.
 
-[]({{ site.baseurl }}/assets/images/image190.png)
+![]({{ site.baseurl }}/assets/images/image190.png)
 
 _Compañías de terceros sincronizadas_
 
@@ -49,6 +49,6 @@ AFLS ejecuta una sincronización de las compañías que se encuentran en otros s
 *   **Servicios:** lista de servicios asociados al cliente.
 
 
-[]({{ site.baseurl }}/assets/images/image191.png)
+![]({{ site.baseurl }}/assets/images/image191.png)
 
 _Clientes de terceros sincronizados_
